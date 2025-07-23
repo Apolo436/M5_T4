@@ -1,0 +1,195 @@
+/* ===== 1. Estilos generales de la página ===== */
+html, body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #d9d9d9;
+}
+
+/* ===== 2. Encabezado principal ===== */
+#encabezado {
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-bottom: 2px solid #ccc;
+}
+
+/* ===== 3. Título principal ===== */
+h1 {
+  margin: 20px;
+  font-size: 1.8em;
+  color: #333;
+  text-align: center;
+}
+
+/* ===== 4. Input para archivo CSV ===== */
+#csvFile {
+  margin: 0 20px 20px;
+  text-align: center;
+}
+
+/* ===== 5. Contenedor de filtros ===== */
+#filtrosContainer {
+  display: flex;
+  gap: 20px;
+  margin: 0 20px 20px;
+  flex-wrap: wrap;
+}
+#filtrosContainer select {
+  padding: 8px;
+  font-size: 1em;
+  min-width: 200px;
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+/* ===== 6. Contenedor de cuadrantes (grid principal) ===== */
+#cuadrantes {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 20px;
+  padding: 20px;
+  height: calc(100vh - 250px);
+  box-sizing: border-box;
+}
+
+/* ===== 7. Cada cuadro dentro de los cuadrantes ===== */
+.cuadro {
+  border: 2px dashed #7e7b7b;
+  background-color: #fff;
+  padding: 15px;
+  box-shadow: 1px 1px 6px rgba(0,0,0,0.1);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+.cuadro canvas {
+  width: 100% !important;
+  height: 100% !important;
+  display: block;
+}
+
+/* ===== 8. Contenedor de tarjetas (cards) ===== */
+#cardsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  overflow-y: auto;
+  justify-content: center;
+}
+
+/* ===== 8.1. Tabla de tarjetas (2 columnas, 3 filas) ===== */
+.tabla-tarjetas-dos-columnas {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+}
+.columna-tarjetas {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.columna-tarjetas .card {
+  min-width: 180px;
+  flex: 1 1 0;
+  font-size: 1.2em;
+}
+
+/* ===== 8.2. Título de la sección de tarjetas ===== */
+.titulo-tarjetas {
+  text-align: center;
+  font-size: 1.3em;
+  color: #333;
+  margin-bottom: 10px;
+  margin-top: 0;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+/* ===== 9. Tarjetas individuales ===== */
+.card {
+  background-color: #f7f8fa;
+  border: 2px solid #4CAF50;
+  padding: 15px 20px;
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #4CAF50;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  text-align: center;
+}
+.card.blue {
+  border-color: #2196F3;
+  color: #2196F3;
+}
+.card.yellow {
+  border-color: #FF9800;
+  color: #FF9800;
+}
+
+/* ===== 10. Estilos especiales para la sección Fuente de la información ===== */
+#Fuente_Info {
+  border: 2px dashed #7e7b7b;
+  background-color: #fff;
+  padding: 15px;
+  box-shadow: 1px 1px 6px rgba(0,0,0,0.1);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  font-size: .6em;
+}
+
+/* ===== 11. Footer ===== */
+footer {
+  text-align: center;
+  margin: 2px 0 2px 0;
+  color: #0f0f0f;
+  font-size: .8em;
+}
+
+/* ===== 12. Estilos responsivos para pantallas pequeñas ===== */
+@media screen and (max-width: 768px) {
+  #cuadrantes {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    height: auto;
+  }
+  .cuadro {
+    min-height: 200px;
+  }
+  #cardsContainer {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .tabla-tarjetas-dos-columnas {
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+  .columna-tarjetas {
+    width: 100%;
+    align-items: center;
+  }
+  .columna-tarjetas .card {
+    min-width: unset;
+    width: 90%;
+    font-size: 1em;
+  }
+  .card {
+    font-size: 1em;
+  }
+  h1 {
+    font-size: 1.4em;
+  }
+}
+
+
+
+
+

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Resumen Financiero</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+  <div id="encabezado">
+    <h1>
+      Resumen del avance presupuestal
+    </h1>
+    <input type="file" id="csvFile" accept=".csv" />
+
+    <div id="filtrosContainer">
+      <div>
+        <label for="filtroFuente"><strong>Fuente de financiamiento:</strong></label><br />
+        <select id="filtroFuente"></select>
+      </div>
+      <div>
+        <label for="filtroDivision"><strong>División:</strong></label><br />
+        <select id="filtroDivision"></select>
+      </div>
+      <div>
+        <label for="filtroDepartamento"><strong>Departamento:</strong></label><br />
+        <select id="filtroDepartamento"></select>
+      </div>
+    </div>
+  </div>
+
+  <div id="cuadrantes">
+    <div class="cuadro">
+      <h2 class="titulo-tarjetas">Resumen global</h2>
+      <div id="cardsContainer"></div>
+    </div>
+    <div class="cuadro">
+      <canvas id="stackedChart"></canvas>
+    </div>
+    <div class="cuadro" id="Fuente_Info">
+      <p>📄 Fuente de la información</p>
+      <p>Sistema Integral de Información de la Universidad Autonoma Metropolitana (SIIUAM)</p>
+      <p>Capítulos de gasto:</p>
+      <p>SP Servicios personales (1000); </p>
+      <p>MS Materiales y suministros (2000); </p>
+      <p>SG Servicios generales (3000);</p>
+      <p>TAS Transferencias, apoyos, subsidios y otras ayudas (4000); </p>
+      <p>BMII Bienes muebles, inmuebles e intangibles (5000);</p> 
+      <p>IP Inversión publica (6000).</p>
+    </div>
+    <div class="cuadro">
+      <canvas id="horizontalChart"></canvas>
+    </div>
+  </div>
+
+  <footer>
+    Elaborado por la Coordinación de Planeación e Información Institucional
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
+

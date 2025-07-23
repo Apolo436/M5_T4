@@ -1,0 +1,956 @@
+﻿FUENTE DE FINANCIAMIENTO,PROYECTO,CAPITULO,PARTIDA,DIVISION,DEPARTAMENTO,DESCRIPCION,INICIAL,ADECUACIONES,TRANSFERENCIAS,MODIFICADO,PRECOMPROMETIDO,COMPROMISO,GASTO,DISPONIBLE
+Subsidio federal,51101001,MS,2110101,RUL,ORUL,Papeleria y Articulos de Oficina,40000,0,223192.22,263192.22,46674.87,0,72890.67,190301.55
+Subsidio federal,51101001,MS,2140101,RUL,ORUL,Materiales y útiles para el procesamiento en equipos y bienes informáticos,7200,0,-7200,0,0,0,0,0
+Subsidio federal,51101001,MS,2160101,RUL,ORUL,Material de limpieza,8700,0,-7860,840,840,0,840,0
+Subsidio federal,51101001,MS,2210301,RUL,ORUL,Productos alimenticios para el personal que realiza labores en campo o de supervisión,22000,0,0,22000,1670,0,10020,11980
+Subsidio federal,51101001,MS,2210401,RUL,ORUL,Productos alimenticios para el personal en las instalaciones,8000,0,0,8000,1600,0,6645.1,1354.9
+Subsidio federal,51101001,MS,2230101,RUL,ORUL,Utensilios para el servicio de alimentación,0,0,400,400,0,0,305.88,94.12
+Subsidio federal,51101001,MS,2610301,RUL,ORUL,"Combustibles, lubricantes y aditivos",70800,0,-9088,61712,3300.42,0,38558.58,23153.42
+Subsidio federal,51101001,MS,2710101,RUL,ORUL,Ropa de trabajo,2500,0,0,2500,0,0,0,2500
+Subsidio federal,51101001,MS,2940101,RUL,ORUL,Refacciones y Accesorios para equipo de cómputo,6000,0,-1023.8,4976.2,0,0,4921.93,54.27
+Subsidio federal,51101001,MS,2960101,RUL,ORUL,Refacciones y Accesorios Menores de Equipo de transporte,18000,0,0,18000,0,0,16692.17,1307.83
+Subsidio federal,51101001,SG,3180101,RUL,ORUL,Servicio postal,1200,0,0,1200,0,0,0,1200
+Subsidio federal,51101001,SG,3360201,RUL,ORUL,Otros servicios comerciales,1400,0,0,1400,0,0,0,1400
+Subsidio federal,51101001,SG,3360401,RUL,ORUL,Impresión y elaboración de material informativo derivado de la operación y administración,5000,0,0,5000,0,0,0,5000
+Subsidio federal,51101001,SG,3410101,RUL,ORUL,Servicios bancarios y financieros,600,0,0,600,0,0,0,600
+Subsidio federal,51101001,SG,3520101,RUL,ORUL,Mantenimiento y conservación de mobiliario y equipo de administración,15000,0,0,15000,0,0,0,15000
+Subsidio federal,51101001,SG,3530101,RUL,ORUL,Mantenimiento y conservación de bienes informáticos,5000,0,0,5000,0,0,0,5000
+Subsidio federal,51101001,SG,3550101,RUL,ORUL,Servicios de Mantenimiento de Transporte,15000,0,0,15000,3832.44,0,14332.44,667.56
+Subsidio federal,51101001,SG,3710401,RUL,ORUL,Pasajes aéreos nacionales,20000,0,14698,34698,0,0,34698,0
+Subsidio federal,51101001,SG,3710601,RUL,ORUL,Pasaje aéreos internacionales,20000,0,3202,23202,0,0,23202,0
+Subsidio federal,51101001,SG,3720402,RUL,ORUL,Peajes,84000,0,0,84000,5000,0,37000,47000
+Subsidio federal,51101001,SG,3750401,RUL,ORUL,Viáticos en Territorio Nacional,37500,0,0,37500,0,0,22682,14818
+Subsidio federal,51101001,SG,3760201,RUL,ORUL,Viáticos en el extranjero,44100,0,0,44100,0,0,25085.81,19014.19
+Subsidio federal,51101001,SG,3820101,RUL,ORUL,Gastos de orden social y cultural,0,0,13924,13924,0,0,13924,0
+Subsidio federal,51101001,SG,3850101,RUL,ORUL,Gastos de representación,24000,0,0,24000,0,0,21930.3,2069.7
+Subsidio federal,51101001,SG,3920201,RUL,ORUL,Otros impuestos y derechos,24000,0,0,24000,0,0,739,23261
+Subsidio federal,51101001,BMII,5150101,RUL,ORUL,Equipo de cómputo y de tecnologías de la información,20000,0,-20000,0,0,0,0,0
+Subsidio federal,51101003,MS,2110101,RUL,ORUL,Papeleria y Articulos de Oficina,300000,0,-217067.86,82932.14,0,0,0,82932.14
+Subsidio federal,51101003,MS,2460101,RUL,ORUL,Material eléctrico y electrónico,0,0,14132,14132,14131.59,0,14131.59,0.41
+Subsidio federal,51101003,MS,2480101,RUL,ORUL,Materiales complementarios,0,0,9190,9190,9087.9,0,9087.9,102.1
+Subsidio federal,51101003,BMII,5110101,RUL,ORUL,Mobiliario,0,0,193745.86,193745.86,193745.8,0,193745.8,0.06
+Ingresos propios adecuables,51101052,MS,2110101,RUL,ORUL,Papeleria y Articulos de Oficina,0,659458.34,-197923.02,461535.32,0,0,0,461535.32
+Ingresos propios adecuables,51101052,MS,2210401,RUL,ORUL,Productos alimenticios para el personal en las instalaciones,0,0,30274.02,30274.02,0,0,12896.03,17377.99
+Ingresos propios adecuables,51101052,MS,2710102,RUL,ORUL,Uniformes Deportivos,0,0,167648,167648,0,0,167648,0
+Ingresos propios adecuables,51101052,BMII,5150101,RUL,ORUL,Equipo de cómputo y de tecnologías de la información,0,0,120968.37,120968.37,0,0,0,120968.37
+Remanentes,51101055,MS,2110101,RUL,ORUL,Papeleria y Articulos de Oficina,0,247557.87,77937.75,325495.62,0,0,0,325495.62
+Remanentes,51101055,MS,2150203,RUL,ORUL,Libros adquiridos,0,20000,0,20000,0,0,0,20000
+Remanentes,51101055,MS,2160101,RUL,ORUL,Material de limpieza,0,10000,0,10000,0,0,0,10000
+Remanentes,51101055,MS,2210401,RUL,ORUL,Productos alimenticios para el personal en las instalaciones,0,16846.26,100000,116846.26,70742.6,0,106831.95,10014.31
+Remanentes,51101055,MS,2540101,RUL,ORUL,"Materiales, accesorios y suministros médicos.",0,10000,0,10000,0,0,0,10000
+Remanentes,51101055,MS,2550101,RUL,ORUL,"Materiales, accesorios y suministros de laboratorio",0,145267.68,0,145267.68,0,0,0,145267.68
+Remanentes,51101055,MS,2730101,RUL,ORUL,Material y Equipo para practicas deportivas,0,18541,0,18541,0,0,0,18541
+Remanentes,51101055,SG,3190201,RUL,ORUL,Contratación de otros servicios,0,1,0,1,0,0,0,1
+Remanentes,51101055,SG,3360401,RUL,ORUL,Impresión y elaboración de material informativo derivado de la operación y administración,0,1,0,1,0,0,0,1
+Remanentes,51101055,SG,3360590,RUL,ORUL,Difusión y promoción,0,100000,0,100000,0,0,0,100000
+Remanentes,51101055,SG,3510101,RUL,ORUL,Mantenimiento de Infraestructura Física (terceros),0,10271.18,15800000,15810271.18,0,0,0,15810271.18
+Remanentes,51101055,SG,3570101,RUL,ORUL,Mantenimiento y conservación de maquinaria y equipo,0,2477.82,0,2477.82,0,0,0,2477.82
+Remanentes,51101055,SG,3750401,RUL,ORUL,Viáticos en Territorio Nacional,0,14449,0,14449,0,0,0,14449
+Remanentes,51101055,SG,3830101,RUL,ORUL,Colaboración para Eventos,0,1233.49,0,1233.49,0,0,0,1233.49
+Remanentes,51101055,BMII,5150101,RUL,ORUL,Equipo de cómputo y de tecnologías de la información,0,4292.57,0,4292.57,0,0,0,4292.57
+Remanentes,51101055,BMII,5230101,RUL,ORUL,Cámaras fotográficas y de video,0,52.2,0,52.2,0,0,0,52.2
+Remanentes,51101055,BMII,5490101,RUL,ORUL,Otros equipos de transporte,0,3187.43,0,3187.43,0,0,0,3187.43
+Subsidio federal,51101058,MS,2110101,RUL,ORUL,Papeleria y Articulos de Oficina,27000,0,0,27000,0,0,0,27000
+Subsidio federal,51101058,SG,3310101,RUL,ORUL,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",192000,0,0,192000,0,0,0,192000
+Subsidio federal,51101058,SG,3610101,RUL,ORUL,Difusión de mensajes sobre programas y actividades institucionales.,16000,0,0,16000,0,0,0,16000
+Subsidio federal,51101058,SG,3830101,RUL,ORUL,Colaboración para Eventos,120000,0,0,120000,0,0,0,120000
+Ingresos propios no adecuables,51101061,MS,2110101,RUL,ORUL,Papeleria y Articulos de Oficina,110000,0,0,110000,0,0,0,110000
+Ingresos propios no adecuables,51101061,MS,2210401,RUL,ORUL,Productos alimenticios para el personal en las instalaciones,130000,0,0,130000,1563.01,0,100187.07,29812.93
+Ingresos propios no adecuables,51101061,MS,2710102,RUL,ORUL,Uniformes Deportivos,45000,0,0,45000,0,0,0,45000
+Subsidio federal,51101062,SG,3820101,RUL,ORUL,Gastos de orden social y cultural,300000,0,0,300000,3000,0,60000,240000
+Subsidio federal,51101063,MS,2110101,RUL,ORUL,Papeleria y Articulos de Oficina,10872,0,267608.34,278480.34,0,0,277184.32,1296.02
+Subsidio federal,51101063,MS,2170101,RUL,ORUL,Material didáctico,0,0,62252.71,62252.71,62252.71,0,62252.71,0
+Subsidio federal,51101063,MS,2230101,RUL,ORUL,Utensilios para el servicio de alimentación,0,0,30119.4,30119.4,0,0,0,30119.4
+Subsidio federal,51101063,MS,2520102,RUL,ORUL,Materiales para jardinería,0,0,80591,80591,80591,0,80591,0
+Subsidio federal,51101063,MS,2960101,RUL,ORUL,Refacciones y Accesorios Menores de Equipo de transporte,0,0,974.4,974.4,0,0,974.4,0
+Subsidio federal,51101063,SG,3270101,RUL,ORUL,"Patentes, derechos de autor, regalías y otros",0,0,10000,10000,0,0,4551.64,5448.36
+Subsidio federal,51101063,SG,3310101,RUL,ORUL,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",5800000,0,-4207716.54,1592283.46,0,0,162400,1429883.46
+Subsidio federal,51101063,SG,3520101,RUL,ORUL,Mantenimiento y conservación de mobiliario y equipo de administración,0,0,14865.04,14865.04,0,0,14865.04,0
+Subsidio federal,51101063,SG,3550101,RUL,ORUL,Servicios de Mantenimiento de Transporte,0,0,4640,4640,0,0,4640,0
+Subsidio federal,51101063,SG,3830101,RUL,ORUL,Colaboración para Eventos,0,0,100000,100000,0,0,19980,80020
+Subsidio federal,51101063,BMII,5110101,RUL,ORUL,Mobiliario,0,0,76041.34,76041.34,0,0,76041.34,0
+Subsidio federal,51101063,BMII,5150101,RUL,ORUL,Equipo de cómputo y de tecnologías de la información,0,0,194211.85,194211.85,194211.84,0,194211.84,0.01
+Subsidio federal,51101064,MS,2110101,RUL,ORUL,Papeleria y Articulos de Oficina,0,0,1999.84,1999.84,0,0,1999.84,0
+Subsidio federal,51101064,MS,2940101,RUL,ORUL,Refacciones y Accesorios para equipo de cómputo,0,0,20000,20000,0,0,19744.36,255.64
+Subsidio federal,51101064,SG,3710401,RUL,ORUL,Pasajes aéreos nacionales,0,0,8593,8593,0,0,8592,1
+Subsidio federal,51101064,SG,3710601,RUL,ORUL,Pasaje aéreos internacionales,0,0,0.16,0.16,0,0,0,0.16
+Subsidio federal,51101064,SG,3750401,RUL,ORUL,Viáticos en Territorio Nacional,0,0,4100,4100,0,4100,4100,0
+Subsidio federal,51101064,SG,3760201,RUL,ORUL,Viáticos en el extranjero,0,0,82000,82000,0,81408,81408,592
+Subsidio federal,51101064,SG,3790102,RUL,ORUL,Gastos de transportación para alumnos e invitados,0,0,143140,143140,0,6800,143140,0
+Subsidio federal,51101064,SG,3790103,RUL,ORUL,Gastos de alimentación y  hospedaje  para alumnos e invitados,0,0,0,0,0,0,0,0
+Subsidio federal,51101064,SG,3830101,RUL,ORUL,Colaboración para Eventos,0,0,36835,36835,0,0,35325,1510
+Subsidio federal,51101064,SG,3830191,RUL,ORUL,Cuotas de inscripción,0,0,0,0,0,0,0,0
+Subsidio federal,51199001,SP,1330101,RUL,ORUL,Tiempo Extraordinario,25000,0,0,25000,0,0,0,25000
+Subsidio federal,51204001,MS,2110101,RUL,CVIN,Papeleria y Articulos de Oficina,0,0,0,0,0,0,0,0
+Subsidio federal,51204001,MS,2170101,RUL,CVIN,Material didáctico,110000,0,-763,109237,0,0,0,109237
+Subsidio federal,51204001,MS,2610301,RUL,CVIN,"Combustibles, lubricantes y aditivos",5000,0,-270,4730,0,0,0,4730
+Subsidio federal,51204001,MS,2940101,RUL,CVIN,Refacciones y Accesorios para equipo de cómputo,25000,0,0,25000,0,0,0,25000
+Subsidio federal,51204001,SG,3180101,RUL,CVIN,Servicio postal,5000,0,0,5000,0,0,895.13,4104.87
+Subsidio federal,51204001,SG,3720402,RUL,CVIN,Peajes,5000,0,-1270.97,3729.03,0,0,0,3729.03
+Subsidio federal,51299001,SP,1330101,RUL,CVIN,Tiempo Extraordinario,0,0,800,800,0,0,658.52,141.48
+Subsidio federal,51302001,MS,2150101,RUL,CCEU,Material de apoyo informativo (áreas administrativas),0,0,4000,4000,0,0,2668,1332
+Subsidio federal,51302001,MS,2610301,RUL,CCEU,"Combustibles, lubricantes y aditivos",9250,0,-2588,6662,0,0,0,6662
+Subsidio federal,51302001,MS,2910101,RUL,CCEU,Herramientas Menores,10000,0,0,10000,0,0,0,10000
+Subsidio federal,51302001,SG,3190201,RUL,CCEU,Contratación de otros servicios,5000,0,0,5000,0,0,0,5000
+Subsidio federal,51302001,SG,3310101,RUL,CCEU,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",360000,0,-90000,270000,0,69600,215064,54936
+Subsidio federal,51302001,SG,3360401,RUL,CCEU,Impresión y elaboración de material informativo derivado de la operación y administración,38000,0,-2482.72,35517.28,0,0,15553.28,19964
+Subsidio federal,51302001,SG,3720402,RUL,CCEU,Peajes,9250,0,-3060,6190,0,0,0,6190
+Subsidio federal,51302001,SG,3750401,RUL,CCEU,Viáticos en Territorio Nacional,9250,0,-4224,5026,0,0,0,5026
+Subsidio federal,51302001,SG,3830101,RUL,CCEU,Colaboración para Eventos,50000,0,40000,90000,0,0,89157.6,842.4
+Subsidio federal,51399001,SP,1330101,RUL,CCEU,Tiempo Extraordinario,9250,0,42625.42,51875.42,6103.08,0,37264.16,14611.26
+Subsidio federal,51401001,MS,2110101,RUL,CEA,Papeleria y Articulos de Oficina,0,0,1476,1476,0,0,1475.92,0.08
+Subsidio federal,51401001,MS,2210401,RUL,CEA,Productos alimenticios para el personal en las instalaciones,0,0,3574,3574,0,0,2744.04,829.96
+Subsidio federal,51401001,MS,2610301,RUL,CEA,"Combustibles, lubricantes y aditivos",10000,0,0,10000,0,0,0,10000
+Subsidio federal,51401001,MS,2710102,RUL,CEA,Uniformes Deportivos,40000,0,0,40000,0,0,0,40000
+Subsidio federal,51401001,SG,3310101,RUL,CEA,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",25000,0,-22206.78,2793.22,0,0,0,2793.22
+Subsidio federal,51401001,SG,3310102,RUL,CEA,"Servicios Profesionales Personas Morales para asesoria asociadas a convenios, tratados o acuerdos",45000,0,0,45000,0,0,0,45000
+Subsidio federal,51401001,SG,3360401,RUL,CEA,Impresión y elaboración de material informativo derivado de la operación y administración,0,0,30261.2,30261.2,0,0,29829.4,431.8
+Subsidio federal,51401001,SG,3360501,RUL,CEA,Información en medios masivos derivada de la operación y administración,25000,0,0,25000,0,0,0,25000
+Subsidio federal,51401001,SG,3790102,RUL,CEA,Gastos de transportación para alumnos e invitados,20000,0,-18923,1077,0,0,0,1077
+Subsidio federal,51401001,SG,3830101,RUL,CEA,Colaboración para Eventos,185000,0,-59911.4,125088.6,0,0,103249.35,21839.25
+Subsidio federal,51401004,MS,2110101,RUL,CEA,Papeleria y Articulos de Oficina,2000,0,-2000,0,0,0,0,0
+Subsidio federal,51401004,MS,2210401,RUL,CEA,Productos alimenticios para el personal en las instalaciones,98499.99,0,-77333,21166.99,0,0,0,21166.99
+Subsidio federal,51401004,MS,2430101,RUL,CEA,"Cal, yeso y productos de yeso",1000,0,0,1000,0,0,0,1000
+Subsidio federal,51401004,MS,2610301,RUL,CEA,"Combustibles, lubricantes y aditivos",21000,0,-10000,11000,0,0,0,11000
+Subsidio federal,51401004,MS,2710102,RUL,CEA,Uniformes Deportivos,21500,0,0,21500,0,0,18560,2940
+Subsidio federal,51401004,MS,2730101,RUL,CEA,Material y Equipo para practicas deportivas,5000,0,41695,46695,0,0,46597.2,97.8
+Subsidio federal,51401004,MS,2730102,RUL,CEA,Eventos deportivos,10000,0,-10000,0,0,0,0,0
+Subsidio federal,51401004,SG,3310101,RUL,CEA,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",49000,0,18628,67628,0,0,67628,0
+Subsidio federal,51401004,SG,3360401,RUL,CEA,Impresión y elaboración de material informativo derivado de la operación y administración,5000.01,0,0,5000.01,0,0,0,5000.01
+Subsidio federal,51401004,SG,3720402,RUL,CEA,Peajes,7000,0,0,7000,0,0,0,7000
+Subsidio federal,51401004,SG,3750401,RUL,CEA,Viáticos en Territorio Nacional,10000,0,-5181.1,4818.9,0,0,0,4818.9
+Subsidio federal,51401004,SG,3830101,RUL,CEA,Colaboración para Eventos,15000,0,-10000,5000,0,0,0,5000
+Subsidio federal,51499001,SP,1330101,RUL,CEA,Tiempo Extraordinario,0,0,3200,3200,0,0,0,3200
+Subsidio federal,51502001,MS,2110101,RUL,CCV,Papeleria y Articulos de Oficina,20000,0,-1574.8,18425.2,0,0,7574.8,10850.4
+Subsidio federal,51502001,MS,2140101,RUL,CCV,Materiales y útiles para el procesamiento en equipos y bienes informáticos,12147.18,0,0,12147.18,0,0,0,12147.18
+Subsidio federal,51502001,MS,2150208,RUL,CCV,Software no especializado,47602.64,0,0,47602.64,0,0,21090.06,26512.58
+Subsidio federal,51502001,MS,2610301,RUL,CCV,"Combustibles, lubricantes y aditivos",2000,0,0,2000,0,0,0,2000
+Subsidio federal,51502001,MS,2940101,RUL,CCV,Refacciones y Accesorios para equipo de cómputo,0,0,13270.4,13270.4,0,0,13189.84,80.56
+Subsidio federal,51502001,SG,3330101,RUL,CCV,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,156600,0,-28710,127890,0,17980,107880,20010
+Subsidio federal,51502001,SG,3330401,RUL,CCV,Servicios Profesionales Personas Físicas para servicios de mantenimiento de aplicaciones informaticas,255200,0,-100000,155200,0,0,0,155200
+Subsidio federal,51502001,SG,3530101,RUL,CCV,Mantenimiento y conservación de bienes informáticos,16000,0,-13270.4,2729.6,0,0,0,2729.6
+Subsidio federal,51502001,SG,3720402,RUL,CCV,Peajes,2000,0,0,2000,0,0,0,2000
+Subsidio federal,51502001,BMII,5110101,RUL,CCV,Mobiliario,6000,0,-6000,0,0,0,0,0
+Subsidio federal,51502001,BMII,5150101,RUL,CCV,Equipo de cómputo y de tecnologías de la información,82450.18,0,12669.82,95120,0,0,95120,0
+Subsidio federal,51601001,MS,2110101,RUL,CPII,Papeleria y Articulos de Oficina,10000,0,-1856,8144,0,0,0,8144
+Subsidio federal,51601001,MS,2480101,RUL,CPII,Materiales complementarios,0,0,3584.4,3584.4,0,0,3089.54,494.86
+Subsidio federal,51601001,SG,3310101,RUL,CPII,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",75000,0,-31875.95,43124.05,0,0,0,43124.05
+Subsidio federal,51601001,SG,3360401,RUL,CPII,Impresión y elaboración de material informativo derivado de la operación y administración,0,0,1856,1856,0,0,1856,0
+Subsidio federal,51601001,SG,3830101,RUL,CPII,Colaboración para Eventos,65000,0,-13710.17,51289.83,0,0,30624,20665.83
+Subsidio federal,51601002,MS,2110101,RUL,CPII,Papeleria y Articulos de Oficina,0,0,20000,20000,0,0,18764.16,1235.84
+Subsidio federal,51601002,MS,2940101,RUL,CPII,Refacciones y Accesorios para equipo de cómputo,0,0,2494,2494,0,0,2494,0
+Subsidio federal,51601002,SG,3610101,RUL,CPII,Difusión de mensajes sobre programas y actividades institucionales.,20000,0,-20000,0,0,0,0,0
+Subsidio federal,51601002,BMII,5110101,RUL,CPII,Mobiliario,0,0,19718.84,19718.84,0,0,19718.84,0
+Subsidio federal,51601002,BMII,5150101,RUL,CPII,Equipo de cómputo y de tecnologías de la información,60000,0,-60000,0,0,0,0,0
+Subsidio federal,51601002,BMII,5230101,RUL,CPII,Cámaras fotográficas y de video,0,0,96860,96860,0,0,96860,0
+Subsidio federal,51701001,MS,2110101,RUL,CBUG,Papeleria y Articulos de Oficina,20000,0,-18432.79,1567.21,0,0,1567.21,0
+Subsidio federal,51701001,MS,2210401,RUL,CBUG,Productos alimenticios para el personal en las instalaciones,17499.99,0,-16542.99,957,0,0,957,0
+Subsidio federal,51701001,MS,2530101,RUL,CBUG,Medicinas y productos farmacéuticos,43000,0,-4973.76,38026.24,0,0,15082.97,22943.27
+Subsidio federal,51701001,MS,2710101,RUL,CBUG,Ropa de trabajo,0,0,2494.35,2494.35,910.6,0,2494.35,0
+Subsidio federal,51701001,SG,3310101,RUL,CBUG,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",0,0,61000,61000,0,0,60552,448
+Subsidio federal,51701001,SG,3310102,RUL,CBUG,"Servicios Profesionales Personas Morales para asesoria asociadas a convenios, tratados o acuerdos",20000,0,-20000,0,0,0,0,0
+Subsidio federal,51701001,SG,3360401,RUL,CBUG,Impresión y elaboración de material informativo derivado de la operación y administración,0,0,13640.44,13640.44,0,0,13640.44,0
+Subsidio federal,51701001,SG,3830101,RUL,CBUG,Colaboración para Eventos,74500,0,-68220.37,6279.63,0,0,0,6279.63
+Subsidio federal,51701001,BMII,5110101,RUL,CBUG,Mobiliario,0,0,12354,12354,0,0,12354,0
+Subsidio federal,51701001,BMII,5150101,RUL,CBUG,Equipo de cómputo y de tecnologías de la información,25000,0,-25000,0,0,0,0,0
+Subsidio federal,51701002,SG,3310101,RUL,CBUG,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",50000,0,4631.7,54631.7,0,27082.19,54164.39,467.31
+Subsidio federal,51701004,SG,3830101,RUL,CBUG,Colaboración para Eventos,50000,0,-11067.2,38932.8,0,0,22000,16932.8
+Subsidio federal,52101022,MS,2110101,DCBI,ODCBI,Papeleria y Articulos de Oficina,45000,0,-26600,18400,0.01,0,14822.76,3577.24
+Subsidio federal,52101022,MS,2140101,DCBI,ODCBI,Materiales y útiles para el procesamiento en equipos y bienes informáticos,70000,0,-15965.54,54034.46,0,0,7247.68,46786.78
+Subsidio federal,52101022,MS,2210401,DCBI,ODCBI,Productos alimenticios para el personal en las instalaciones,12000,0,-1447,10553,0,0,2609.13,7943.87
+Subsidio federal,52101022,MS,2230101,DCBI,ODCBI,Utensilios para el servicio de alimentación,0,0,26600,26600,0,0,23366.28,3233.72
+Subsidio federal,52101022,MS,2610301,DCBI,ODCBI,"Combustibles, lubricantes y aditivos",22000,0,0,22000,1484,0,7460,14540
+Subsidio federal,52101022,MS,2920101,DCBI,ODCBI,Refacciones y Accesorios Menores de edificios,2000,0,0,2000,0,0,0,2000
+Subsidio federal,52101022,MS,2940101,DCBI,ODCBI,Refacciones y Accesorios para equipo de cómputo,30000,0,0,30000,0,0,4970.6,25029.4
+Subsidio federal,52101022,SG,3330301,DCBI,ODCBI,Servicios Profesionales Personas Físicas para servicios relacionados con certificacion de procesos,130800,0,-39150,91650,0,0,0,91650
+Subsidio federal,52101022,SG,3520101,DCBI,ODCBI,Mantenimiento y conservación de mobiliario y equipo de administración,5000,0,0,5000,0,0,0,5000
+Subsidio federal,52101022,SG,3580101,DCBI,ODCBI,"Servicio de lavandería, limpieza e higiene",1200,0,0,1200,0,0,0,1200
+Subsidio federal,52101022,SG,3610101,DCBI,ODCBI,Difusión de mensajes sobre programas y actividades institucionales.,40000,0,30500,70500,19794.82,0,47924.82,22575.18
+Subsidio federal,52101022,SG,3720402,DCBI,ODCBI,Peajes,22000,0,0,22000,930,0,3630,18370
+Subsidio federal,52101023,MS,2110101,DCBI,ODCBI,Papeleria y Articulos de Oficina,30000,0,-9322,20678,0,0,4449.55,16228.45
+Subsidio federal,52101023,MS,2210401,DCBI,ODCBI,Productos alimenticios para el personal en las instalaciones,10000,0,0,10000,0,0,2927.83,7072.17
+Subsidio federal,52101023,MS,2460101,DCBI,ODCBI,Material eléctrico y electrónico,5000,0,0,5000,0,0,0,5000
+Subsidio federal,52101023,MS,2710102,DCBI,ODCBI,Uniformes Deportivos,20000,0,-20000,0,0,0,0,0
+Subsidio federal,52101023,MS,2940101,DCBI,ODCBI,Refacciones y Accesorios para equipo de cómputo,30000,0,0,30000,0,0,25245,4755
+Subsidio federal,52101023,SG,3270101,DCBI,ODCBI,"Patentes, derechos de autor, regalías y otros",20000,0,2000,22000,0,0,22000,0
+Subsidio federal,52101023,SG,3330301,DCBI,ODCBI,Servicios Profesionales Personas Físicas para servicios relacionados con certificacion de procesos,185000,0,0,185000,0,0,55680,129320
+Subsidio federal,52101023,SG,3710401,DCBI,ODCBI,Pasajes aéreos nacionales,20000,0,0,20000,0,0,5863,14137
+Subsidio federal,52101023,SG,3720401,DCBI,ODCBI,Pasajes terrestres nacionales,5000,0,0,5000,0,0,0,5000
+Subsidio federal,52101023,SG,3750401,DCBI,ODCBI,Viáticos en Territorio Nacional,65000,0,0,65000,0,0,28468.37,36531.63
+Subsidio federal,52101023,SG,3820101,DCBI,ODCBI,Gastos de orden social y cultural,30000,0,0,30000,0,0,0,30000
+Subsidio federal,52101023,SG,3830101,DCBI,ODCBI,Colaboración para Eventos,30000,0,37000,67000,0,48000,57700,9300
+Subsidio federal,52101025,MS,2110101,DCBI,ODCBI,Papeleria y Articulos de Oficina,100000,0,-70330,29670,0,0,2650.6,27019.4
+Subsidio federal,52101025,MS,2460101,DCBI,ODCBI,Material eléctrico y electrónico,80000,0,-30000,50000,0,0,16201.89,33798.11
+Subsidio federal,52101025,MS,2550101,DCBI,ODCBI,"Materiales, accesorios y suministros de laboratorio",200000,0,-119208,80792,6074.37,0,31958.84,48833.16
+Subsidio federal,52101025,MS,2610301,DCBI,ODCBI,"Combustibles, lubricantes y aditivos",8000,0,0,8000,0,0,0,8000
+Subsidio federal,52101025,MS,2910101,DCBI,ODCBI,Herramientas Menores,20000,0,-3000,17000,0,0,1374.6,15625.4
+Subsidio federal,52101025,MS,2930101,DCBI,ODCBI,"Refacciones y Accesorios Menores de  mobiliario, equipo de administración, educacional y recreativo",6665,0,10100,16765,0,0,16545.64,219.36
+Subsidio federal,52101025,MS,2940101,DCBI,ODCBI,Refacciones y Accesorios para equipo de cómputo,170000,0,-86315.21,83684.79,0.01,0,18560.52,65124.27
+Subsidio federal,52101025,SG,3360201,DCBI,ODCBI,Otros servicios comerciales,350000.01,0,-350000.01,0,0,0,0,0
+Subsidio federal,52101025,SG,3720402,DCBI,ODCBI,Peajes,7000,0,0,7000,0,0,0,7000
+Subsidio federal,52101025,SG,3750401,DCBI,ODCBI,Viáticos en Territorio Nacional,10000,0,0,10000,0,0,0,10000
+Subsidio federal,52101025,SG,3790102,DCBI,ODCBI,Gastos de transportación para alumnos e invitados,10000,0,4999.91,14999.91,0,0,14000,999.91
+Subsidio federal,52101025,SG,3790103,DCBI,ODCBI,Gastos de alimentación y  hospedaje  para alumnos e invitados,10000,0,0,10000,0,0,7658,2342
+Subsidio federal,52101025,TAS,4410301,DCBI,ODCBI,"PREMIOS, RECOMPENSAS, PENSIONES DE GRACIA Y PENSION RECREATIVA ESTUDIANTIL.",33335,0,0,33335,0,0,0,33335
+Subsidio federal,52101025,BMII,5150101,DCBI,ODCBI,Equipo de cómputo y de tecnologías de la información,230000,0,811975.57,1041975.57,0,0,1035410.34,6565.23
+Subsidio federal,52101025,BMII,5210102,DCBI,ODCBI,Equipo de Videoconferencia y Unidad Multipunto,0,0,19180,19180,0,0,19128.4,51.6
+Ingresos propios adecuables,52101031,MS,2210401,DCBI,ODCBI,Productos alimenticios para el personal en las instalaciones,0,9976.44,1,9977.44,0,0,0,9977.44
+Remanentes,52101033,MS,2210401,DCBI,ODCBI,Productos alimenticios para el personal en las instalaciones,0,5000,-5000,0,0,0,0,0
+Remanentes,52101033,MS,2550101,DCBI,ODCBI,"Materiales, accesorios y suministros de laboratorio",0,20000,92880,112880,0,0,112439.96,440.04
+Remanentes,52101033,SG,3360401,DCBI,ODCBI,Impresión y elaboración de material informativo derivado de la operación y administración,0,10000,-10000,0,0,0,0,0
+Remanentes,52101033,SG,3390102,DCBI,ODCBI,Subcontratación de Servicios Profesionales con Terceros Personas Morales,0,81440,-62880,18560,0,0,18560,0
+Remanentes,52101033,SG,3790101,DCBI,ODCBI,Gastos para operativos en trabajos de campo,0,15000,-15000,0,0,0,0,0
+Subsidio federal,52101035,MS,2110101,DCBI,ODCBI,Papeleria y Articulos de Oficina,200000,0,-165789.28,34210.72,0,0,34210.72,0
+Subsidio federal,52101035,MS,2550101,DCBI,ODCBI,"Materiales, accesorios y suministros de laboratorio",200000,0,-193766.28,6233.72,0,0,6233.72,0
+Subsidio federal,52101035,BMII,5690201,DCBI,ODCBI,Otros bienes muebles,0,0,118900,118900,0,0,118320,580
+Remanentes,52101036,MS,2110101,DCBI,ODCBI,Papeleria y Articulos de Oficina,0,0,296278,296278,0,0,247475.56,48802.44
+Remanentes,52101036,MS,2460101,DCBI,ODCBI,Material eléctrico y electrónico,0,0,539325.91,539325.91,0,0,209789.23,329536.68
+Remanentes,52101036,SG,3330101,DCBI,ODCBI,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,0,0,190000,190000,0,0,0,190000
+Remanentes,52101036,SG,3710601,DCBI,ODCBI,Pasaje aéreos internacionales,0,0,79469,79469,0,0,0,79469
+Remanentes,52101036,SG,3760201,DCBI,ODCBI,Viáticos en el extranjero,0,0,8000,8000,0,0,0,8000
+Remanentes,52101036,SG,3830101,DCBI,ODCBI,Colaboración para Eventos,0,0,22831,22831,0,0,0,22831
+Remanentes,52101036,BMII,5150101,DCBI,ODCBI,Equipo de cómputo y de tecnologías de la información,0,0,60000,60000,0,0,0,60000
+Remanentes,52101038,MS,2110101,DCBI,ODCBI,Papeleria y Articulos de Oficina,0,0,40000,40000,0,0,942.77,39057.23
+Remanentes,52101038,SG,3270101,DCBI,ODCBI,"Patentes, derechos de autor, regalías y otros",0,0,30000,30000,0,0,0,30000
+Remanentes,52101038,SG,3330101,DCBI,ODCBI,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,0,0,300000,300000,0,160000,210000,90000
+Remanentes,52101038,SG,3340101,DCBI,ODCBI,Servicios Profesionales Personas Físicas para servicios de capacitacion,0,0,300000,300000,25000,41760,66760,233240
+Remanentes,52101038,BMII,5150101,DCBI,ODCBI,Equipo de cómputo y de tecnologías de la información,0,0,200000,200000,95990,0,199665,335
+Remanentes,52101039,MS,2210401,DCBI,ODCBI,Productos alimenticios para el personal en las instalaciones,0,0,8500,8500,0,0,1494.26,7005.74
+Subsidio federal,52199001,SP,1330101,DCBI,ODCBI,Tiempo Extraordinario,20000,0,0,20000,1745.76,0,6601.66,13398.34
+Subsidio federal,52201003,MS,2150203,DCBI,SADCBI,Libros adquiridos,350000,0,0,350000,0,0,0,350000
+Subsidio federal,52201004,SG,3520101,DCBI,SADCBI,Mantenimiento y conservación de mobiliario y equipo de administración,350000,0,-345309.26,4690.74,0,0,0,4690.74
+Subsidio federal,52201004,SG,3530102,DCBI,SADCBI,Mantenimiento a Software,150000,0,0,150000,0,0,0,150000
+Subsidio federal,52301028,MS,2110101,DCBI,DPP,Papeleria y Articulos de Oficina,48000,0,-14399,33601,0,0,23969.55,9631.45
+Subsidio federal,52301028,MS,2120101,DCBI,DPP,"Materiales y útiles de impresión, reproducción y encuadernación",0,0,2500,2500,0,0,2030,470
+Subsidio federal,52301028,MS,2460101,DCBI,DPP,Material eléctrico y electrónico,40000,0,1252.8,41252.8,3363.48,0,22989.52,18263.28
+Subsidio federal,52301029,MS,2210401,DCBI,DPP,Productos alimenticios para el personal en las instalaciones,6000,0,-3563,2437,0,0,0,2437
+Subsidio federal,52301029,MS,2610301,DCBI,DPP,"Combustibles, lubricantes y aditivos",4500,0,-2502.06,1997.94,0,0,0,1997.94
+Subsidio federal,52301029,SG,3270101,DCBI,DPP,"Patentes, derechos de autor, regalías y otros",1500,0,0,1500,0,0,1200,300
+Subsidio federal,52301029,SG,3720402,DCBI,DPP,Peajes,9000,0,-3676,5324,0,0,0,5324
+Subsidio federal,52301029,SG,3830101,DCBI,DPP,Colaboración para Eventos,10000,0,0,10000,0,0,9344.38,655.62
+Subsidio federal,52301030,MS,2460101,DCBI,DPP,Material eléctrico y electrónico,10000,0,0,10000,0,0,9995.72,4.28
+Subsidio federal,52301030,MS,2920101,DCBI,DPP,Refacciones y Accesorios Menores de edificios,6000,0,0,6000,0,0,5788.4,211.6
+Subsidio federal,52301030,MS,2940101,DCBI,DPP,Refacciones y Accesorios para equipo de cómputo,25000,0,0,25000,0,0,15239.66,9760.34
+Subsidio federal,52301030,BMII,5150101,DCBI,DPP,Equipo de cómputo y de tecnologías de la información,210000,0,0,210000,0,0,206120.4,3879.6
+Subsidio federal,52301031,MS,2110101,DCBI,DPP,Papeleria y Articulos de Oficina,28500,0,-28000,500,0,0,0,500
+Subsidio federal,52301031,MS,2940101,DCBI,DPP,Refacciones y Accesorios para equipo de cómputo,19500,0,28000,47500,0,0,47093.68,406.32
+Subsidio federal,52301031,SG,3830101,DCBI,DPP,Colaboración para Eventos,50000,0,0,50000,0,0,0,50000
+Subsidio federal,52301031,BMII,5150101,DCBI,DPP,Equipo de cómputo y de tecnologías de la información,267000,0,8500,275500,0,0,259260,16240
+Subsidio federal,52401010,MS,2110101,DCBI,DRT,Papeleria y Articulos de Oficina,50000,0,-6692.16,43307.84,0,433.49,43307.84,0
+Subsidio federal,52401010,MS,2120101,DCBI,DRT,"Materiales y útiles de impresión, reproducción y encuadernación",0,0,4210.8,4210.8,0,0,4210.8,0
+Subsidio federal,52401010,MS,2920101,DCBI,DRT,Refacciones y Accesorios Menores de edificios,2000,0,-2000,0,0,0,0,0
+Subsidio federal,52401010,MS,2940101,DCBI,DRT,Refacciones y Accesorios para equipo de cómputo,0,0,2134.4,2134.4,0,0,2134.4,0
+Subsidio federal,52401010,SG,3540101,DCBI,DRT,"Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio",90000,0,-15412,74588,0,0,74588,0
+Subsidio federal,52401010,SG,3570101,DCBI,DRT,Mantenimiento y conservación de maquinaria y equipo,50000,0,39792.96,89792.96,0,0,32091.98,57700.98
+Subsidio federal,52401010,SG,3580101,DCBI,DRT,"Servicio de lavandería, limpieza e higiene",10000,0,-10000,0,0,0,0,0
+Subsidio federal,52401013,MS,2110101,DCBI,DRT,Papeleria y Articulos de Oficina,40000,0,-40000,0,0,0,0,0
+Subsidio federal,52401013,MS,2550101,DCBI,DRT,"Materiales, accesorios y suministros de laboratorio",71100,0,-43404,27696,0,0,16931.36,10764.64
+Subsidio federal,52401013,SG,3530102,DCBI,DRT,Mantenimiento a Software,150000,0,0,150000,0,0,0,150000
+Subsidio federal,52401013,SG,3720402,DCBI,DRT,Peajes,10000,0,-1603,8397,0,0,0,8397
+Subsidio federal,52401013,BMII,5310101,DCBI,DRT,Equipo médico y de laboratorio,15400,0,-15400,0,0,0,0,0
+Subsidio federal,52401013,BMII,5690201,DCBI,DRT,Otros bienes muebles,0,0,86770,86770,86768,0,86768,2
+Subsidio federal,52401022,MS,2460101,DCBI,DRT,Material eléctrico y electrónico,130000,0,-109916.44,20083.56,3592.28,0,3592.28,16491.28
+Subsidio federal,52401022,SG,3190201,DCBI,DRT,Contratación de otros servicios,45000,0,0,45000,0,0,0,45000
+Subsidio federal,52401022,SG,3510101,DCBI,DRT,Mantenimiento de Infraestructura Física (terceros),35000,0,-26104.73,8895.27,0,0,0,8895.27
+Subsidio federal,52401022,BMII,5310101,DCBI,DRT,Equipo médico y de laboratorio,0,0,109916.44,109916.44,109916.44,0,109916.44,0
+Remanentes,52401025,MS,2110101,DCBI,DRT,Papeleria y Articulos de Oficina,0,500000,-500000,0,0,0,0,0
+Remanentes,52401025,MS,2550101,DCBI,DRT,"Materiales, accesorios y suministros de laboratorio",0,0,149147,149147,0,0,30339.8,118807.2
+Remanentes,52401025,SG,3310105,DCBI,DRT,Servicios de personas físicas con actividad empresarial,0,0,114000,114000,0,0,0,114000
+Remanentes,52401025,BMII,5150101,DCBI,DRT,Equipo de cómputo y de tecnologías de la información,0,0,31967.88,31967.88,0,0,0,31967.88
+Remanentes,52401025,BMII,5310190,DCBI,DRT,Equipo de laboratorio,0,0,204885.12,204885.12,0,0,0,204885.12
+Remanentes,52401027,MS,2110101,DCBI,DRT,Papeleria y Articulos de Oficina,0,52657.48,0,52657.48,0,0,0,52657.48
+Subsidio federal,52403004,MS,2140101,DCBI,DRT,Materiales y útiles para el procesamiento en equipos y bienes informáticos,1800,0,-1800,0,0,0,0,0
+Subsidio federal,52403004,MS,2550101,DCBI,DRT,"Materiales, accesorios y suministros de laboratorio",7700,0,3978.7,11678.7,4391.76,0,11678.7,0
+Subsidio federal,52403004,MS,2950101,DCBI,DRT,Refacciones y Accesorios Menores de Equipo e Instrumental Médico y de Laboratorio,18000,0,-18000,0,0,0,0,0
+Subsidio federal,52403004,SG,3530101,DCBI,DRT,Mantenimiento y conservación de bienes informáticos,10500,0,-10500,0,0,0,0,0
+Subsidio federal,52403004,SG,3540101,DCBI,DRT,"Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio",2500,0,-2500,0,0,0,0,0
+Subsidio federal,52403004,BMII,5310101,DCBI,DRT,Equipo médico y de laboratorio,19500,0,12810,32310,0,0,31635.52,674.48
+Subsidio federal,52403004,BMII,5690201,DCBI,DRT,Otros bienes muebles,0,0,16011.3,16011.3,15981.32,0,15981.32,29.98
+Subsidio federal,52404003,MS,2940101,DCBI,DRT,Refacciones y Accesorios para equipo de cómputo,61500,0,-25300,36200,2813,0,32845.4,3354.6
+Subsidio federal,52404003,BMII,5150101,DCBI,DRT,Equipo de cómputo y de tecnologías de la información,0,0,25300,25300,0,0,8560.8,16739.2
+Subsidio federal,52404006,MS,2110101,DCBI,DRT,Papeleria y Articulos de Oficina,20000,0,-10417.28,9582.72,0,0,0,9582.72
+Subsidio federal,52404006,SG,3610101,DCBI,DRT,Difusión de mensajes sobre programas y actividades institucionales.,0,0,9570,9570,0,0,9570,0
+Subsidio federal,52404006,SG,3710601,DCBI,DRT,Pasaje aéreos internacionales,15000,0,-15000,0,0,0,0,0
+Subsidio federal,52404006,SG,3720401,DCBI,DRT,Pasajes terrestres nacionales,10000,0,0,10000,0,0,0,10000
+Subsidio federal,52404006,SG,3750401,DCBI,DRT,Viáticos en Territorio Nacional,6000,0,0,6000,0,0,0,6000
+Subsidio federal,52404006,SG,3760201,DCBI,DRT,Viáticos en el extranjero,14000,0,0,14000,0,0,0,14000
+Subsidio federal,52404006,SG,3790102,DCBI,DRT,Gastos de transportación para alumnos e invitados,0,0,14330,14330,0,0,12000,2330
+Subsidio federal,52404006,SG,3790103,DCBI,DRT,Gastos de alimentación y  hospedaje  para alumnos e invitados,0,0,7680,7680,0,7680,7680,0
+Subsidio federal,52404006,SG,3830101,DCBI,DRT,Colaboración para Eventos,35000,0,-7680,27320,0,0,26864.87,455.13
+Subsidio federal,52501011,MS,2110101,DCBI,DSIC,Papeleria y Articulos de Oficina,40300,0,-19200,21100,0,0,17035.76,4064.24
+Subsidio federal,52501011,MS,2140101,DCBI,DSIC,Materiales y útiles para el procesamiento en equipos y bienes informáticos,0,0,0,0,0,0,0,0
+Subsidio federal,52501011,MS,2460101,DCBI,DSIC,Material eléctrico y electrónico,21000,0,10600,31600,5857.93,0,27077.76,4522.24
+Subsidio federal,52501011,MS,2550101,DCBI,DSIC,"Materiales, accesorios y suministros de laboratorio",0,0,3600,3600,0,0,3456.8,143.2
+Subsidio federal,52501011,MS,2940101,DCBI,DSIC,Refacciones y Accesorios para equipo de cómputo,33000,0,5750,38750,2479.5,0,38448.43,301.57
+Subsidio federal,52501012,SG,3610101,DCBI,DSIC,Difusión de mensajes sobre programas y actividades institucionales.,17200,0,0,17200,0,0,0,17200
+Subsidio federal,52501012,SG,3830101,DCBI,DSIC,Colaboración para Eventos,137500,0,-19950,117550,0,0,42443.57,75106.43
+Subsidio federal,52501014,MS,2910101,DCBI,DSIC,Herramientas Menores,7000,0,0,7000,1157.68,0,1157.68,5842.32
+Subsidio federal,52501014,BMII,5110101,DCBI,DSIC,Mobiliario,57600,0,-1082.06,56517.94,0,0,55058.24,1459.7
+Subsidio federal,52501014,BMII,5150101,DCBI,DSIC,Equipo de cómputo y de tecnologías de la información,226400,0,-55716.44,170683.56,105439.36,0,167876.36,2807.2
+Subsidio federal,52501014,BMII,5650101,DCBI,DSIC,Equipos y aparatos de comunicación y telecomunicaciones,220000,0,46000,266000,264164.48,0,264164.48,1835.52
+Subsidio federal,52501014,BMII,5690201,DCBI,DSIC,Otros bienes muebles,0,0,10798.5,10798.5,0,0,10171.75,626.75
+Subsidio federal,52502008,SG,3830101,DCBI,DSIC,Colaboración para Eventos,50000,0,0,50000,0,0,4150.38,45849.62
+Subsidio federal,53101012,MS,2150203,DCSH,ODCSH,Libros adquiridos,350000,0,0,350000,175000,0,306250,43750
+Subsidio federal,53101012,SG,3510101,DCSH,ODCSH,Mantenimiento de Infraestructura Física (terceros),500000,0,-24764.2,475235.8,0,0,0,475235.8
+Subsidio federal,53101012,TAS,4410301,DCSH,ODCSH,"PREMIOS, RECOMPENSAS, PENSIONES DE GRACIA Y PENSION RECREATIVA ESTUDIANTIL.",33330,0,0,33330,0,0,0,33330
+Subsidio federal,53101013,SG,3270101,DCSH,ODCSH,"Patentes, derechos de autor, regalías y otros",6000,0,0,6000,0,0,0,6000
+Subsidio federal,53101013,SG,3360401,DCSH,ODCSH,Impresión y elaboración de material informativo derivado de la operación y administración,585000,0,73880,658880,0,0,0,658880
+Ingresos propios adecuables,53101016,BMII,5150101,DCSH,ODCSH,Equipo de cómputo y de tecnologías de la información,0,120968.37,-120968.37,0,0,0,0,0
+Ingresos propios adecuables,53101016,BMII,5210101,DCSH,ODCSH,Equipos y aparatos audiovisuales,0,0,0,0,0,0,0,0
+Ingresos propios adecuables,53101016,BMII,5230101,DCSH,ODCSH,Cámaras fotográficas y de video,0,0,0,0,0,0,0,0
+Subsidio federal,53101017,MS,2110101,DCSH,ODCSH,Papeleria y Articulos de Oficina,1000,0,5394.2,6394.2,0.01,0,6382.83,11.37
+Subsidio federal,53101017,MS,2140101,DCSH,ODCSH,Materiales y útiles para el procesamiento en equipos y bienes informáticos,5500,0,0,5500,0,0,0,5500
+Subsidio federal,53101017,MS,2150208,DCSH,ODCSH,Software no especializado,0,0,3999,3999,0,0,3999,0
+Subsidio federal,53101017,MS,2170101,DCSH,ODCSH,Material didáctico,42000,0,-23700,18300,2000,0,4000,14300
+Subsidio federal,53101017,MS,2460101,DCSH,ODCSH,Material eléctrico y electrónico,0,0,8305.8,8305.8,1987.55,0,7468.74,837.06
+Subsidio federal,53101017,SG,3330101,DCSH,ODCSH,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,14000,0,-6233.86,7766.14,0,0,0,7766.14
+Subsidio federal,53101017,SG,3360401,DCSH,ODCSH,Impresión y elaboración de material informativo derivado de la operación y administración,10000,0,-8642,1358,0,0,0,1358
+Subsidio federal,53101017,SG,3610101,DCSH,ODCSH,Difusión de mensajes sobre programas y actividades institucionales.,0,0,8642,8642,1774,0,8641.93,0.07
+Subsidio federal,53101017,SG,3790102,DCSH,ODCSH,Gastos de transportación para alumnos e invitados,7500,0,0,7500,0,0,6960,540
+Subsidio federal,53101017,TAS,4410301,DCSH,ODCSH,"PREMIOS, RECOMPENSAS, PENSIONES DE GRACIA Y PENSION RECREATIVA ESTUDIANTIL.",0,0,10000,10000,0,0,0,10000
+Subsidio federal,53101018,MS,2150101,DCSH,ODCSH,Material de apoyo informativo (áreas administrativas),0,0,15622.4,15622.4,0,0,15622.4,0
+Subsidio federal,53101018,MS,2610301,DCSH,ODCSH,"Combustibles, lubricantes y aditivos",0,0,4400,4400,0,4400,4400,0
+Subsidio federal,53101018,MS,2940101,DCSH,ODCSH,Refacciones y Accesorios para equipo de cómputo,0,0,14600,14600,14598.6,0,14598.6,1.4
+Subsidio federal,53101018,SG,3360401,DCSH,ODCSH,Impresión y elaboración de material informativo derivado de la operación y administración,100000,0,-100000,0,0,0,0,0
+Subsidio federal,53101018,SG,3530101,DCSH,ODCSH,Mantenimiento y conservación de bienes informáticos,80000,0,-80000,0,0,0,0,0
+Subsidio federal,53101018,SG,3710401,DCSH,ODCSH,Pasajes aéreos nacionales,0,0,0,0,0,0,0,0
+Subsidio federal,53101018,SG,3750401,DCSH,ODCSH,Viáticos en Territorio Nacional,0,0,3075,3075,0,3075,3075,0
+Subsidio federal,53101018,SG,3830101,DCSH,ODCSH,Colaboración para Eventos,50000,0,-50000,0,0,0,0,0
+Subsidio federal,53101018,BMII,5150101,DCSH,ODCSH,Equipo de cómputo y de tecnologías de la información,620987,0,207667.97,828654.97,741820,0,827915.2,739.77
+Subsidio federal,53101018,BMII,5210101,DCSH,ODCSH,Equipos y aparatos audiovisuales,140000,0,-140000,0,0,0,0,0
+Remanentes,53101019,MS,2940101,DCSH,ODCSH,Refacciones y Accesorios para equipo de cómputo,0,0,75000,75000,0,0,0,75000
+Remanentes,53101019,SG,3330101,DCSH,ODCSH,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,0,0,32243.36,32243.36,0,0,0,32243.36
+Remanentes,53101019,BMII,5150101,DCSH,ODCSH,Equipo de cómputo y de tecnologías de la información,0,0,905564,905564,841220.4,0,896784.4,8779.6
+Subsidio federal,53101021,MS,2110101,DCSH,ODCSH,Papeleria y Articulos de Oficina,1000,0,-1000,0,0,0,0,0
+Subsidio federal,53101021,MS,2940101,DCSH,ODCSH,Refacciones y Accesorios para equipo de cómputo,3000,0,-3000,0,0,0,0,0
+Subsidio federal,53101021,SG,3330101,DCSH,ODCSH,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,80000,0,0,80000,0,0,0,80000
+Subsidio federal,53101021,SG,3360101,DCSH,ODCSH,Servicios Profesionales Personas Físicas para servicios relacionados con traducciones,10000,0,0,10000,0,0,0,10000
+Subsidio federal,53101021,SG,3360401,DCSH,ODCSH,Impresión y elaboración de material informativo derivado de la operación y administración,2000,0,0,2000,0,0,0,2000
+Subsidio federal,53101021,SG,3710401,DCSH,ODCSH,Pasajes aéreos nacionales,8000,0,-8000,0,0,0,0,0
+Subsidio federal,53101021,SG,3750401,DCSH,ODCSH,Viáticos en Territorio Nacional,5000,0,-5000,0,0,0,0,0
+Subsidio federal,53102002,MS,2110101,DCSH,ODCSH,Papeleria y Articulos de Oficina,7000,0,0,7000,1201.44,0,6268.61,731.39
+Subsidio federal,53102002,MS,2140101,DCSH,ODCSH,Materiales y útiles para el procesamiento en equipos y bienes informáticos,8000,0,0,8000,0,0,0,8000
+Subsidio federal,53102002,MS,2230101,DCSH,ODCSH,Utensilios para el servicio de alimentación,1000,0,0,1000,0,0,0,1000
+Subsidio federal,53102002,MS,2610301,DCSH,ODCSH,"Combustibles, lubricantes y aditivos",4500,0,-1556,2944,0,0,600,2344
+Subsidio federal,53102002,MS,2940101,DCSH,ODCSH,Refacciones y Accesorios para equipo de cómputo,5000,0,0,5000,0,0,2166.01,2833.99
+Subsidio federal,53102002,SG,3190201,DCSH,ODCSH,Contratación de otros servicios,20000,0,0,20000,0,0,0,20000
+Subsidio federal,53102002,SG,3360401,DCSH,ODCSH,Impresión y elaboración de material informativo derivado de la operación y administración,25000,0,0,25000,0,0,0,25000
+Subsidio federal,53102002,SG,3710401,DCSH,ODCSH,Pasajes aéreos nacionales,3500,0,0,3500,0,0,0,3500
+Subsidio federal,53102002,SG,3720401,DCSH,ODCSH,Pasajes terrestres nacionales,3500,0,0,3500,0,0,0,3500
+Subsidio federal,53102002,SG,3720402,DCSH,ODCSH,Peajes,3500,0,-1526,1974,0,0,0,1974
+Subsidio federal,53102002,SG,3750401,DCSH,ODCSH,Viáticos en Territorio Nacional,8000,0,-2112,5888,0,0,0,5888
+Subsidio federal,53102002,SG,3790102,DCSH,ODCSH,Gastos de transportación para alumnos e invitados,8000,0,-2112.82,5887.18,0,0,0,5887.18
+Subsidio federal,53102002,SG,3790103,DCSH,ODCSH,Gastos de alimentación y  hospedaje  para alumnos e invitados,8000,0,0,8000,0,0,0,8000
+Subsidio federal,53102002,SG,3830101,DCSH,ODCSH,Colaboración para Eventos,15000,0,-3398.86,11601.14,0,0,0,11601.14
+Subsidio federal,53103001,MS,2110101,DCSH,ODCSH,Papeleria y Articulos de Oficina,3000,0,0,3000,0,0,0,3000
+Subsidio federal,53103001,MS,2140101,DCSH,ODCSH,Materiales y útiles para el procesamiento en equipos y bienes informáticos,10000,0,-528,9472,0,0,0,9472
+Subsidio federal,53103001,MS,2610301,DCSH,ODCSH,"Combustibles, lubricantes y aditivos",3000,0,-594,2406,0,0,0,2406
+Subsidio federal,53103001,MS,2940101,DCSH,ODCSH,Refacciones y Accesorios para equipo de cómputo,5000,0,0,5000,0,0,0,5000
+Subsidio federal,53103001,SG,3360401,DCSH,ODCSH,Impresión y elaboración de material informativo derivado de la operación y administración,23000,0,0,23000,0,0,0,23000
+Subsidio federal,53103001,SG,3720402,DCSH,ODCSH,Peajes,2000,0,-654,1346,0,0,0,1346
+Subsidio federal,53103001,SG,3750401,DCSH,ODCSH,Viáticos en Territorio Nacional,8000,0,0,8000,0,0,0,8000
+Subsidio federal,53103001,SG,3790102,DCSH,ODCSH,Gastos de transportación para alumnos e invitados,8000,0,-305,7695,0,0,0,7695
+Subsidio federal,53103001,SG,3790103,DCSH,ODCSH,Gastos de alimentación y  hospedaje  para alumnos e invitados,8000,0,-1356.09,6643.91,0,0,0,6643.91
+Subsidio federal,53103001,SG,3840101,DCSH,ODCSH,Exposiciones,20000,0,0,20000,0,0,0,20000
+Subsidio federal,53197002,MS,2110101,DCSH,ODCSH,Papeleria y Articulos de Oficina,5000,0,0,5000,0,0,0,5000
+Subsidio federal,53197002,SG,3190201,DCSH,ODCSH,Contratación de otros servicios,5000,0,0,5000,0,0,4000,1000
+Subsidio federal,53197002,SG,3330101,DCSH,ODCSH,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,40000,0,0,40000,0,0,0,40000
+Subsidio federal,53197002,SG,3710401,DCSH,ODCSH,Pasajes aéreos nacionales,5000,0,0,5000,0,0,0,5000
+Subsidio federal,53197002,SG,3720401,DCSH,ODCSH,Pasajes terrestres nacionales,5000,0,0,5000,0,0,0,5000
+Subsidio federal,53197002,SG,3750401,DCSH,ODCSH,Viáticos en Territorio Nacional,10000,0,0,10000,0,0,0,10000
+Subsidio federal,53197002,SG,3830101,DCSH,ODCSH,Colaboración para Eventos,10000,0,-3248,6752,0,0,0,6752
+Subsidio federal,53199001,SP,1330101,DCSH,ODCSH,Tiempo Extraordinario,55683,0,-55683,0,0,0,0,0
+Subsidio federal,53201002,MS,2110101,DCSH,SADCSH,Papeleria y Articulos de Oficina,42000,0,-2298.09,39701.91,30808.44,0,36629.8,3072.11
+Subsidio federal,53201002,MS,2210401,DCSH,SADCSH,Productos alimenticios para el personal en las instalaciones,18000,0,-2640,15360,0,0,0,15360
+Subsidio federal,53201002,MS,2610301,DCSH,SADCSH,"Combustibles, lubricantes y aditivos",7000,0,-1350,5650,0,0,0,5650
+Subsidio federal,53201002,MS,2710102,DCSH,SADCSH,Uniformes Deportivos,12000,0,-8932,3068,0,0,0,3068
+Subsidio federal,53201002,MS,2910101,DCSH,SADCSH,Herramientas Menores,1696,0,0,1696,0,0,0,1696
+Subsidio federal,53201002,MS,2940101,DCSH,SADCSH,Refacciones y Accesorios para equipo de cómputo,20000,0,0,20000,-0.01,0,7367.01,12632.99
+Subsidio federal,53201002,SG,3310101,DCSH,SADCSH,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",0,0,299213.05,299213.05,0,0,16717.37,282495.68
+Subsidio federal,53201002,SG,3330101,DCSH,SADCSH,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,372304,0,-215728.05,156575.95,0,19383.99,156575.95,0
+Subsidio federal,53201002,SG,3360401,DCSH,SADCSH,Impresión y elaboración de material informativo derivado de la operación y administración,30000,0,0,30000,0,0,0,30000
+Subsidio federal,53201002,SG,3710601,DCSH,SADCSH,Pasaje aéreos internacionales,10000,0,0,10000,0,0,0,10000
+Subsidio federal,53201002,SG,3750401,DCSH,SADCSH,Viáticos en Territorio Nacional,20000,0,0,20000,0,0,0,20000
+Subsidio federal,53201002,SG,3790102,DCSH,SADCSH,Gastos de transportación para alumnos e invitados,15000,0,0,15000,0,0,0,15000
+Subsidio federal,53201002,SG,3830101,DCSH,SADCSH,Colaboración para Eventos,40000,0,-9775,30225,5336,0,5336,24889
+Subsidio federal,53201007,MS,2610301,DCSH,SADCSH,"Combustibles, lubricantes y aditivos",5000,0,-320,4680,0,0,0,4680
+Subsidio federal,53201007,MS,2930101,DCSH,SADCSH,"Refacciones y Accesorios Menores de  mobiliario, equipo de administración, educacional y recreativo",0,0,5912.52,5912.52,0,0,5912.52,0
+Subsidio federal,53201007,MS,2940101,DCSH,SADCSH,Refacciones y Accesorios para equipo de cómputo,30000,0,35331.2,65331.2,0,0,65215.2,116
+Subsidio federal,53201007,SG,3360401,DCSH,SADCSH,Impresión y elaboración de material informativo derivado de la operación y administración,20000,0,-16243.72,3756.28,0,0,0,3756.28
+Subsidio federal,53201007,SG,3720402,DCSH,SADCSH,Peajes,2000,0,-2000,0,0,0,0,0
+Subsidio federal,53201007,SG,3750401,DCSH,SADCSH,Viáticos en Territorio Nacional,10000,0,-10000,0,0,0,0,0
+Subsidio federal,53201007,SG,3790102,DCSH,SADCSH,Gastos de transportación para alumnos e invitados,15000,0,-15000,0,0,0,0,0
+Subsidio federal,53201007,SG,3830101,DCSH,SADCSH,Colaboración para Eventos,30000,0,0,30000,0,0,0,30000
+Subsidio federal,53301004,MS,2150206,DCSH,DAH,"Material audio-videográfico (películas, audios, fotografías, videos), en diferentes formatos y tamaños.",0,0,81834.52,81834.52,0,0,81834.52,0
+Subsidio federal,53301004,MS,2940101,DCSH,DAH,Refacciones y Accesorios para equipo de cómputo,15000,0,-13666,1334,0,0,0,1334
+Subsidio federal,53301004,SG,3330101,DCSH,DAH,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,50000,0,-49356.04,643.96,0,0,0,643.96
+Subsidio federal,53301004,SG,3340101,DCSH,DAH,Servicios Profesionales Personas Físicas para servicios de capacitacion,50000,0,-42725.04,7274.96,0,0,0,7274.96
+Subsidio federal,53301004,SG,3360401,DCSH,DAH,Impresión y elaboración de material informativo derivado de la operación y administración,100000,0,-50000,50000,0,0,0,50000
+Subsidio federal,53301004,SG,3830101,DCSH,DAH,Colaboración para Eventos,50000,0,0,50000,0,0,0,50000
+Subsidio federal,53301027,SG,3830101,DCSH,DAH,Colaboración para Eventos,20000,0,0,20000,0,0,20000,0
+Subsidio federal,53301028,MS,2150206,DCSH,DAH,"Material audio-videográfico (películas, audios, fotografías, videos), en diferentes formatos y tamaños.",0,0,6882.28,6882.28,5433.44,0,5433.44,1448.84
+Subsidio federal,53301028,SG,3570101,DCSH,DAH,Mantenimiento y conservación de maquinaria y equipo,20000,0,-3961.32,16038.68,0,0,0,16038.68
+Subsidio federal,53301028,BMII,5150101,DCSH,DAH,Equipo de cómputo y de tecnologías de la información,100000,0,-9334,90666,0,0,90410.4,255.6
+Subsidio federal,53301028,BMII,5230101,DCSH,DAH,Cámaras fotográficas y de video,95000,0,24825.6,119825.6,87928,0,117914,1911.6
+Subsidio federal,53301030,MS,2940101,DCSH,DAH,Refacciones y Accesorios para equipo de cómputo,15000,0,0,15000,0,0,0,15000
+Subsidio federal,53301030,SG,3190401,DCSH,DAH,Servicios integrales de infraestructura de cómputo,5000,0,0,5000,0,0,0,5000
+Subsidio federal,53301033,BMII,5210101,DCSH,DAH,Equipos y aparatos audiovisuales,20000,0,0,20000,0,0,0,20000
+Subsidio federal,53301038,SG,3830101,DCSH,DAH,Colaboración para Eventos,20000,0,0,20000,0,0,0,20000
+Subsidio federal,53302001,SG,3830101,DCSH,DAH,Colaboración para Eventos,20000,0,0,20000,0,0,0,20000
+Subsidio federal,53302008,MS,2940101,DCSH,DAH,Refacciones y Accesorios para equipo de cómputo,20000,0,-20000,0,0,0,0,0
+Subsidio federal,53302008,BMII,5210101,DCSH,DAH,Equipos y aparatos audiovisuales,0,0,25500,25500,0,0,25170.84,329.16
+Subsidio federal,53302009,SG,3710601,DCSH,DAH,Pasaje aéreos internacionales,20000,0,0,20000,0,0,0,20000
+Subsidio federal,53303002,SG,3710601,DCSH,DAH,Pasaje aéreos internacionales,20000,0,-9256,10744,0,0,10744,0
+Subsidio federal,53303002,SG,3760201,DCSH,DAH,Viáticos en el extranjero,0,0,9256,9256,0,0,0,9256
+Subsidio federal,53303006,SG,3710601,DCSH,DAH,Pasaje aéreos internacionales,15000,0,0,15000,0,0,0,15000
+Subsidio federal,53303006,SG,3830101,DCSH,DAH,Colaboración para Eventos,5000,0,0,5000,0,0,0,5000
+Subsidio federal,53303007,MS,2110101,DCSH,DAH,Papeleria y Articulos de Oficina,4000,0,0,4000,0,0,0,4000
+Subsidio federal,53303007,SG,3710601,DCSH,DAH,Pasaje aéreos internacionales,16000,0,0,16000,0,0,0,16000
+Subsidio federal,53303008,SG,3710601,DCSH,DAH,Pasaje aéreos internacionales,20000,0,0,20000,0,0,0,20000
+Subsidio federal,53401007,MS,2110101,DCSH,DEC,Papeleria y Articulos de Oficina,2000,0,0,2000,0,0,0,2000
+Subsidio federal,53401007,SG,3330101,DCSH,DEC,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,20000,0,0,20000,0,0,0,20000
+Subsidio federal,53401007,SG,3710401,DCSH,DEC,Pasajes aéreos nacionales,10000,0,0,10000,0,0,0,10000
+Subsidio federal,53401007,SG,3750401,DCSH,DEC,Viáticos en Territorio Nacional,10000,0,0,10000,0,0,0,10000
+Subsidio federal,53401007,SG,3830101,DCSH,DEC,Colaboración para Eventos,8000,0,0,8000,0,0,0,8000
+Subsidio federal,53401008,MS,2110101,DCSH,DEC,Papeleria y Articulos de Oficina,14000,0,-5803,8197,125.01,0,8196.51,0.49
+Subsidio federal,53401008,MS,2610301,DCSH,DEC,"Combustibles, lubricantes y aditivos",0,0,3500,3500,0,0,1500,2000
+Subsidio federal,53401008,MS,2940101,DCSH,DEC,Refacciones y Accesorios para equipo de cómputo,40000,0,0,40000,0,0,18518.6,21481.4
+Subsidio federal,53401008,SG,3330101,DCSH,DEC,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,60000,0,-6000,54000,0,0,0,54000
+Subsidio federal,53401008,SG,3360401,DCSH,DEC,Impresión y elaboración de material informativo derivado de la operación y administración,115000,0,-70727.8,44272.2,0,0,0,44272.2
+Subsidio federal,53401008,SG,3830101,DCSH,DEC,Colaboración para Eventos,50000,0,-36792.42,13207.58,0,0,2700,10507.58
+Subsidio federal,53401008,BMII,5150101,DCSH,DEC,Equipo de cómputo y de tecnologías de la información,0,0,41905.2,41905.2,0,0,41905,0.2
+Subsidio federal,53401008,BMII,5150102,DCSH,DEC,Infraestructura de Comunicación de Voz y Datos,40000,0,-16916,23084,0,0,23084,0
+Subsidio federal,53401018,SG,3530101,DCSH,DEC,Mantenimiento y conservación de bienes informáticos,50000,0,-20000,30000,0,0,0,30000
+Subsidio federal,53401021,SG,3710401,DCSH,DEC,Pasajes aéreos nacionales,7000,0,-7000,0,0,0,0,0
+Subsidio federal,53401021,SG,3750401,DCSH,DEC,Viáticos en Territorio Nacional,7000,0,-7000,0,0,0,0,0
+Subsidio federal,53401021,SG,3830101,DCSH,DEC,Colaboración para Eventos,3000,0,-3000,0,0,0,0,0
+Subsidio federal,53401021,BMII,5150101,DCSH,DEC,Equipo de cómputo y de tecnologías de la información,16000,0,17000,33000,0,0,32735.2,264.8
+Subsidio federal,53402001,MS,2110101,DCSH,DEC,Papeleria y Articulos de Oficina,1000,0,-1000,0,0,0,0,0
+Subsidio federal,53402001,SG,3330101,DCSH,DEC,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,5000,0,-5000,0,0,0,0,0
+Subsidio federal,53402001,SG,3340101,DCSH,DEC,Servicios Profesionales Personas Físicas para servicios de capacitacion,10000,0,-10000,0,0,0,0,0
+Subsidio federal,53402001,SG,3710401,DCSH,DEC,Pasajes aéreos nacionales,8000,0,-8000,0,0,0,0,0
+Subsidio federal,53402001,SG,3750401,DCSH,DEC,Viáticos en Territorio Nacional,6000,0,-6000,0,0,0,0,0
+Subsidio federal,53402001,SG,3830101,DCSH,DEC,Colaboración para Eventos,3000,0,-3000,0,0,0,0,0
+Subsidio federal,53402001,BMII,5150101,DCSH,DEC,Equipo de cómputo y de tecnologías de la información,0,0,42775,42775,0,0,42108,667
+Subsidio federal,53402002,SG,3830101,DCSH,DEC,Colaboración para Eventos,3000,0,-3000,0,0,0,0,0
+Subsidio federal,53402002,BMII,5150101,DCSH,DEC,Equipo de cómputo y de tecnologías de la información,30000,0,4544.8,34544.8,0,0,32735.2,1809.6
+Subsidio federal,53402004,MS,2140101,DCSH,DEC,Materiales y útiles para el procesamiento en equipos y bienes informáticos,6000,0,-6000,0,0,0,0,0
+Subsidio federal,53402004,MS,2150208,DCSH,DEC,Software no especializado,5000,0,-1550,3450,0,0,0,3450
+Subsidio federal,53402004,MS,2940101,DCSH,DEC,Refacciones y Accesorios para equipo de cómputo,1500,0,0,1500,0,0,0,1500
+Subsidio federal,53402004,SG,3330101,DCSH,DEC,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,11000,0,-11000,0,0,0,0,0
+Subsidio federal,53402004,SG,3710401,DCSH,DEC,Pasajes aéreos nacionales,5500,0,0,5500,0,0,0,5500
+Subsidio federal,53402004,SG,3750401,DCSH,DEC,Viáticos en Territorio Nacional,4000,0,0,4000,0,0,0,4000
+Subsidio federal,53402004,BMII,5150101,DCSH,DEC,Equipo de cómputo y de tecnologías de la información,0,0,18550,18550,0,0,18548.4,1.6
+Subsidio federal,53402005,SG,3330101,DCSH,DEC,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,13000,0,0,13000,0,0,0,13000
+Subsidio federal,53402005,SG,3710601,DCSH,DEC,Pasaje aéreos internacionales,18000,0,3342,21342,0,0,21342,0
+Subsidio federal,53402005,SG,3750401,DCSH,DEC,Viáticos en Territorio Nacional,2000,0,0,2000,0,0,0,2000
+Subsidio federal,53402006,SG,3710601,DCSH,DEC,Pasaje aéreos internacionales,25000,0,-25000,0,0,0,0,0
+Subsidio federal,53402006,SG,3760201,DCSH,DEC,Viáticos en el extranjero,8000,0,-8000,0,0,0,0,0
+Subsidio federal,53402006,BMII,5150101,DCSH,DEC,Equipo de cómputo y de tecnologías de la información,0,0,35496.8,35496.8,0,0,35496,0.8
+Subsidio federal,53402007,MS,2110101,DCSH,DEC,Papeleria y Articulos de Oficina,2000,0,-2000,0,0,0,0,0
+Subsidio federal,53402007,MS,2150201,DCSH,DEC,Material para información en actividades de investigación científica y tecnológica (Áreas académicas),0,0,9995,9995,0,0,7835,2160
+Subsidio federal,53402007,MS,2940101,DCSH,DEC,Refacciones y Accesorios para equipo de cómputo,0,0,4479,4479,0,0,4478.99,0.01
+Subsidio federal,53402007,SG,3190401,DCSH,DEC,Servicios integrales de infraestructura de cómputo,3000,0,-3000,0,0,0,0,0
+Subsidio federal,53402007,SG,3710401,DCSH,DEC,Pasajes aéreos nacionales,15000,0,-675,14325,0,0,0,14325
+Subsidio federal,53402007,SG,3750401,DCSH,DEC,Viáticos en Territorio Nacional,13000,0,-8799,4201,0,0,0,4201
+Subsidio federal,53402007,BMII,5150101,DCSH,DEC,Equipo de cómputo y de tecnologías de la información,0,0,0,0,0,0,0,0
+Subsidio federal,53501005,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,47000,0,-26192,20808,2545.62,0,13005.92,7802.08
+Subsidio federal,53501005,MS,2610301,DCSH,DPS,"Combustibles, lubricantes y aditivos",3000,0,-540,2460,0,0,0,2460
+Subsidio federal,53501005,MS,2940101,DCSH,DPS,Refacciones y Accesorios para equipo de cómputo,20000,0,0,20000,0,0,10658.08,9341.92
+Subsidio federal,53501005,SG,3360401,DCSH,DPS,Impresión y elaboración de material informativo derivado de la operación y administración,35000,0,-20000,15000,0,0,870,14130
+Subsidio federal,53501005,SG,3830101,DCSH,DPS,Colaboración para Eventos,25000,0,-3518.06,21481.94,0,0,0,21481.94
+Subsidio federal,53501005,BMII,5150101,DCSH,DPS,Equipo de cómputo y de tecnologías de la información,35000,0,127637.8,162637.8,161124,0,161124,1513.8
+Subsidio federal,53501011,SG,3360401,DCSH,DPS,Impresión y elaboración de material informativo derivado de la operación y administración,314500,0,-162889,151611,0,0,0,151611
+Subsidio federal,53501011,SG,3710401,DCSH,DPS,Pasajes aéreos nacionales,4000,0,0,4000,0,0,0,4000
+Subsidio federal,53501011,SG,3750401,DCSH,DPS,Viáticos en Territorio Nacional,3500,0,-528,2972,0,0,0,2972
+Subsidio federal,53501011,TAS,4410301,DCSH,DPS,"PREMIOS, RECOMPENSAS, PENSIONES DE GRACIA Y PENSION RECREATIVA ESTUDIANTIL.",8000,0,0,8000,0,0,0,8000
+Remanentes,53501013,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,0,0,52214.62,52214.62,0,0,150,52064.62
+Remanentes,53501013,MS,2610301,DCSH,DPS,"Combustibles, lubricantes y aditivos",0,0,2000,2000,0,0,758,1242
+Remanentes,53501013,SG,3340101,DCSH,DPS,Servicios Profesionales Personas Físicas para servicios de capacitacion,0,0,15000,15000,0,0,14601.4,398.6
+Remanentes,53501013,SG,3720402,DCSH,DPS,Peajes,0,0,1500,1500,0,0,1100,400
+Subsidio federal,53502001,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,3500,0,-2000,1500,0,0,0,1500
+Subsidio federal,53502001,MS,2230101,DCSH,DPS,Utensilios para el servicio de alimentación,2000,0,0,2000,0,0,0,2000
+Subsidio federal,53502001,MS,2940101,DCSH,DPS,Refacciones y Accesorios para equipo de cómputo,2000,0,0,2000,0,0,0,2000
+Subsidio federal,53502001,SG,3340101,DCSH,DPS,Servicios Profesionales Personas Físicas para servicios de capacitacion,10000,0,0,10000,0,0,0,10000
+Subsidio federal,53502001,SG,3790102,DCSH,DPS,Gastos de transportación para alumnos e invitados,2000,0,0,2000,2000,0,2000,0
+Subsidio federal,53502001,SG,3790103,DCSH,DPS,Gastos de alimentación y  hospedaje  para alumnos e invitados,3000,0,2000,5000,0,0,0,5000
+Subsidio federal,53502001,SG,3830101,DCSH,DPS,Colaboración para Eventos,2500,0,0,2500,2387.5,0,2387.5,112.5
+Subsidio federal,53502007,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,5000,0,-5000,0,0,0,0,0
+Subsidio federal,53502007,MS,2230101,DCSH,DPS,Utensilios para el servicio de alimentación,3000,0,0,3000,0,0,0,3000
+Subsidio federal,53502007,MS,2940101,DCSH,DPS,Refacciones y Accesorios para equipo de cómputo,8000,0,0,8000,0,0,0,8000
+Subsidio federal,53502007,SG,3790102,DCSH,DPS,Gastos de transportación para alumnos e invitados,4000,0,-1052.23,2947.77,0,0,0,2947.77
+Subsidio federal,53502007,SG,3790103,DCSH,DPS,Gastos de alimentación y  hospedaje  para alumnos e invitados,4000,0,-528,3472,0,0,0,3472
+Subsidio federal,53502007,SG,3830101,DCSH,DPS,Colaboración para Eventos,6000,0,-540,5460,0,0,0,5460
+Subsidio federal,53502021,MS,2940101,DCSH,DPS,Refacciones y Accesorios para equipo de cómputo,5000,0,1612,6612,6612,0,6612,0
+Subsidio federal,53502021,SG,3710601,DCSH,DPS,Pasaje aéreos internacionales,10000,0,-3848,6152,0,0,6151.53,0.47
+Subsidio federal,53502021,SG,3760201,DCSH,DPS,Viáticos en el extranjero,5000,0,-250,4750,0,3848,3848,902
+Subsidio federal,53502021,SG,3830101,DCSH,DPS,Colaboración para Eventos,0,0,2486,2486,0,0,0,2486
+Subsidio federal,53502023,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,18000,0,-18000,0,0,0,0,0
+Subsidio federal,53502023,MS,2610301,DCSH,DPS,"Combustibles, lubricantes y aditivos",2000,0,0,2000,0,0,0,2000
+Subsidio federal,53502023,MS,2940101,DCSH,DPS,Refacciones y Accesorios para equipo de cómputo,10000,0,0,10000,0,0,0,10000
+Subsidio federal,53502023,SG,3710401,DCSH,DPS,Pasajes aéreos nacionales,5000,0,0,5000,0,0,0,5000
+Subsidio federal,53502023,SG,3750401,DCSH,DPS,Viáticos en Territorio Nacional,14000,0,-2000,12000,0,0,0,12000
+Subsidio federal,53502023,SG,3830101,DCSH,DPS,Colaboración para Eventos,11000,0,-5000,6000,0,0,0,6000
+Subsidio federal,53502026,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,2000,0,-2000,0,0,0,0,0
+Subsidio federal,53502026,MS,2470101,DCSH,DPS,Artículos metálicos para la construcción,3000,0,0,3000,0,0,0,3000
+Subsidio federal,53502026,MS,2560101,DCSH,DPS,"Fibras sintéticas, hules, plásticos y derivados",15000,0,-4706.57,10293.43,0,0,0,10293.43
+Subsidio federal,53502027,BMII,5150101,DCSH,DPS,Equipo de cómputo y de tecnologías de la información,20000,0,-20000,0,0,0,0,0
+Subsidio federal,53502028,SG,3710601,DCSH,DPS,Pasaje aéreos internacionales,12000,0,0,12000,2000,0,2000,10000
+Subsidio federal,53502028,SG,3760201,DCSH,DPS,Viáticos en el extranjero,8000,0,0,8000,0,5485.11,5485.11,2514.89
+Remanentes,53502031,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,0,5000,-127.6,4872.4,0,0,0,4872.4
+Remanentes,53502031,MS,2210301,DCSH,DPS,Productos alimenticios para el personal que realiza labores en campo o de supervisión,0,30000,0,30000,0,0,0,30000
+Remanentes,53502031,MS,2610301,DCSH,DPS,"Combustibles, lubricantes y aditivos",0,26608.34,0,26608.34,0,0,6624.47,19983.87
+Remanentes,53502031,MS,2910101,DCSH,DPS,Herramientas Menores,0,10000,0,10000,0,0,0,10000
+Remanentes,53502031,SG,3360401,DCSH,DPS,Impresión y elaboración de material informativo derivado de la operación y administración,0,0,127.6,127.6,0,0,0,127.6
+Remanentes,53502031,SG,3750401,DCSH,DPS,Viáticos en Territorio Nacional,0,15561,0,15561,0,0,3950,11611
+Remanentes,53502031,SG,3830101,DCSH,DPS,Colaboración para Eventos,0,50000,0,50000,0,0,0,50000
+Remanentes,53502036,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,0,100000,-100000,0,0,0,0,0
+Remanentes,53502036,MS,2560101,DCSH,DPS,"Fibras sintéticas, hules, plásticos y derivados",0,0,100000,100000,0,0,99994.41,5.59
+Subsidio federal,53502037,SG,3710601,DCSH,DPS,Pasaje aéreos internacionales,40000,0,-8000,32000,0,0,0,32000
+Subsidio federal,53502037,SG,3760201,DCSH,DPS,Viáticos en el extranjero,0,0,8000,8000,0,8000,8000,0
+Subsidio federal,53502038,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,10000,0,-1596,8404,0,0,0,8404
+Subsidio federal,53502038,MS,2610301,DCSH,DPS,"Combustibles, lubricantes y aditivos",2500,0,0,2500,0,0,0,2500
+Subsidio federal,53502038,MS,2940101,DCSH,DPS,Refacciones y Accesorios para equipo de cómputo,3000,0,0,3000,0,0,0,3000
+Subsidio federal,53502038,SG,3750401,DCSH,DPS,Viáticos en Territorio Nacional,4500,0,0,4500,0,0,0,4500
+Remanentes,53502039,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,0,0,51668,51668,0,0,0,51668
+Remanentes,53502039,MS,2940101,DCSH,DPS,Refacciones y Accesorios para equipo de cómputo,0,0,33332,33332,23486.96,0,23486.96,9845.04
+Remanentes,53502039,SG,3330101,DCSH,DPS,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,0,0,166666,166666,0,0,0,166666
+Remanentes,53502039,SG,3750401,DCSH,DPS,Viáticos en Territorio Nacional,0,0,115000,115000,0,0,0,115000
+Remanentes,53502039,BMII,5150101,DCSH,DPS,Equipo de cómputo y de tecnologías de la información,0,0,133334,133334,0,0,132646,688
+Subsidio federal,53502040,MS,2610301,DCSH,DPS,"Combustibles, lubricantes y aditivos",0,0,976.8,976.8,976.8,0,976.8,0
+Subsidio federal,53502040,SG,3750401,DCSH,DPS,Viáticos en Territorio Nacional,8000,0,3106.31,11106.31,0,0,0,11106.31
+Subsidio federal,53502040,SG,3760201,DCSH,DPS,Viáticos en el extranjero,12000,0,-6088.16,5911.84,0,0,0,5911.84
+Subsidio federal,53502040,SG,3830101,DCSH,DPS,Colaboración para Eventos,0,0,1900,1900,0,0,1900,0
+Remanentes,53502041,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,0,6692,0,6692,0,0,0,6692
+Remanentes,53502042,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,0,30065.12,0,30065.12,0,0,0,30065.12
+Subsidio federal,53503007,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,3500,0,-2040,1460,0,0,0,1460
+Subsidio federal,53503007,MS,2940101,DCSH,DPS,Refacciones y Accesorios para equipo de cómputo,0,0,2040,2040,0,0,0,2040
+Subsidio federal,53503007,SG,3830101,DCSH,DPS,Colaboración para Eventos,1500,0,0,1500,0,0,0,1500
+Subsidio federal,53503008,MS,2940101,DCSH,DPS,Refacciones y Accesorios para equipo de cómputo,3000,0,0,3000,0,0,0,3000
+Subsidio federal,53503008,SG,3710401,DCSH,DPS,Pasajes aéreos nacionales,4000,0,0,4000,0,0,0,4000
+Subsidio federal,53503008,SG,3710601,DCSH,DPS,Pasaje aéreos internacionales,10000,0,0,10000,0,0,0,10000
+Subsidio federal,53503008,SG,3750401,DCSH,DPS,Viáticos en Territorio Nacional,3000,0,0,3000,0,0,0,3000
+Subsidio federal,53503010,MS,2610301,DCSH,DPS,"Combustibles, lubricantes y aditivos",3000,0,0,3000,0,0,0,3000
+Subsidio federal,53503010,SG,3710601,DCSH,DPS,Pasaje aéreos internacionales,17000,0,-7000,10000,0,0,10000,0
+Subsidio federal,53503010,SG,3760201,DCSH,DPS,Viáticos en el extranjero,0,0,7000,7000,0,0,0,7000
+Subsidio federal,53503012,SG,3710401,DCSH,DPS,Pasajes aéreos nacionales,5000,0,0,5000,0,0,0,5000
+Subsidio federal,53503012,SG,3710601,DCSH,DPS,Pasaje aéreos internacionales,10000,0,-1000,9000,0,0,0,9000
+Subsidio federal,53503012,SG,3750401,DCSH,DPS,Viáticos en Territorio Nacional,5000,0,1000,6000,0,0,5088.48,911.52
+Subsidio federal,53503013,MS,2110101,DCSH,DPS,Papeleria y Articulos de Oficina,1700,0,0,1700,0,0,0,1700
+Subsidio federal,53503013,MS,2150201,DCSH,DPS,Material para información en actividades de investigación científica y tecnológica (Áreas académicas),2000,0,0,2000,0,0,0,2000
+Subsidio federal,53503013,SG,3710401,DCSH,DPS,Pasajes aéreos nacionales,6000,0,0,6000,0,0,0,6000
+Subsidio federal,53503013,SG,3750401,DCSH,DPS,Viáticos en Territorio Nacional,4000,0,0,4000,0,0,0,4000
+Subsidio federal,53503013,SG,3830101,DCSH,DPS,Colaboración para Eventos,1300,0,0,1300,0,0,0,1300
+Subsidio federal,54101009,MS,2110101,DCBS,ODCSBS,Papeleria y Articulos de Oficina,110000,0,-39469,70531,19669.24,0,25637.05,44893.95
+Subsidio federal,54101009,MS,2120101,DCBS,ODCSBS,"Materiales y útiles de impresión, reproducción y encuadernación",0,0,2369,2369,2369,0,2369,0
+Subsidio federal,54101009,MS,2150101,DCBS,ODCSBS,Material de apoyo informativo (áreas administrativas),0,0,7100,7100,0,0,7064.4,35.6
+Subsidio federal,54101009,MS,2940101,DCBS,ODCSBS,Refacciones y Accesorios para equipo de cómputo,0,0,20000,20000,0,0,10920.09,9079.91
+Subsidio federal,54101009,SG,3230101,DCBS,ODCSBS,Arrendamiento de Equipo y Bienes Informaticos,33500,0,0,33500,0,0,14936.13,18563.87
+Subsidio federal,54101009,SG,3310101,DCBS,ODCSBS,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",120000,0,111443,231443,0,64604,201862.8,29580.2
+Subsidio federal,54101009,SG,3360401,DCBS,ODCSBS,Impresión y elaboración de material informativo derivado de la operación y administración,50000,0,-5626,44374,0,0,0,44374
+Subsidio federal,54101009,SG,3580101,DCBS,ODCSBS,"Servicio de lavandería, limpieza e higiene",0,0,5626,5626,0,0,5626,0
+Subsidio federal,54101009,SG,3830101,DCBS,ODCSBS,Colaboración para Eventos,86645.68,0,-29580,57065.68,0,0,0,57065.68
+Subsidio federal,54101010,MS,2110101,DCBS,SADCBS,Papeleria y Articulos de Oficina,56684.84,0,-1008,55676.84,0,0,9535.2,46141.64
+Subsidio federal,54101010,MS,2140101,DCBS,SADCBS,Materiales y útiles para el procesamiento en equipos y bienes informáticos,3600,0,0,3600,0,0,0,3600
+Subsidio federal,54101010,MS,2160101,DCBS,SADCBS,Material de limpieza,0,0,1008,1008,0,0,983.15,24.85
+Subsidio federal,54101010,MS,2910101,DCBS,SADCBS,Herramientas Menores,0,0,559,559,0,0,559,0
+Subsidio federal,54101010,MS,2940101,DCBS,SADCBS,Refacciones y Accesorios para equipo de cómputo,20000,0,-20000,0,0,0,0,0
+Subsidio federal,54101010,MS,2950101,DCBS,SADCBS,Refacciones y Accesorios Menores de Equipo e Instrumental Médico y de Laboratorio,20000,0,-9447.16,10552.84,0,0,0,10552.84
+Subsidio federal,54101010,SG,3120101,DCBS,SADCBS,Servicio de gas,0,0,1001.16,1001.16,0,0,1000,1.16
+Subsidio federal,54101010,SG,3310101,DCBS,SADCBS,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",296061,0,0,296061,0,44544,137842.8,158218.2
+Subsidio federal,54101010,SG,3830101,DCBS,SADCBS,Colaboración para Eventos,30000,0,0,30000,0,0,0,30000
+Subsidio federal,54101010,BMII,5310101,DCBS,SADCBS,Equipo médico y de laboratorio,0,0,27887,27887,27886.4,0,27886.4,0.6
+Subsidio federal,54101012,MS,2550101,DCBS,ODCSBS,"Materiales, accesorios y suministros de laboratorio",35000,0,-4872,30128,0,0,0,30128
+Subsidio federal,54101012,SG,3790102,DCBS,ODCSBS,Gastos de transportación para alumnos e invitados,19798.55,0,-3320.66,16477.89,0,0,0,16477.89
+Subsidio federal,54101012,SG,3790103,DCBS,ODCSBS,Gastos de alimentación y  hospedaje  para alumnos e invitados,15000,0,0,15000,0,0,0,15000
+Subsidio federal,54101012,SG,3830101,DCBS,ODCSBS,Colaboración para Eventos,10000,0,0,10000,0,0,0,10000
+Subsidio federal,54101018,MS,2110101,DCBS,ODCSBS,Papeleria y Articulos de Oficina,50000,0,-38724.8,11275.2,10356.48,0,10356.48,918.72
+Subsidio federal,54101018,MS,2550101,DCBS,ODCSBS,"Materiales, accesorios y suministros de laboratorio",330000,0,54460,384460,81691.41,0,81691.41,302768.59
+Subsidio federal,54101018,SG,3510101,DCBS,ODCSBS,Mantenimiento de Infraestructura Física (terceros),250000,0,-48361.52,201638.48,0,0,0,201638.48
+Subsidio federal,54101018,SG,3540101,DCBS,ODCSBS,"Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio",102804.79,0,0,102804.79,0,0,0,102804.79
+Subsidio federal,54101018,SG,3830101,DCBS,ODCSBS,Colaboración para Eventos,50000,0,-48495.59,1504.41,0,0,0,1504.41
+Subsidio federal,54101018,BMII,5110101,DCBS,ODCSBS,Mobiliario,0,0,52439,52439,0,0,0,52439
+Subsidio federal,54101018,BMII,5110190,DCBS,ODCSBS,Mobiliario y equipo de oficina,0,0,0,0,0,0,0,0
+Remanentes,54101019,SG,3750401,DCBS,ODCSBS,Viáticos en Territorio Nacional,0,42,0,42,0,0,0,42
+Subsidio federal,54101020,MS,2150203,DCBS,ODCSBS,Libros adquiridos,70000,0,0,70000,69129,0,69129,871
+Subsidio federal,54101020,MS,2550101,DCBS,ODCSBS,"Materiales, accesorios y suministros de laboratorio",30000,0,-6716.24,23283.76,0,0,0,23283.76
+Subsidio federal,54101020,MS,2610301,DCBS,ODCSBS,"Combustibles, lubricantes y aditivos",0,0,23898,23898,0,3500,13399.22,10498.78
+Subsidio federal,54101020,SG,3250201,DCBS,ODCSBS,Arrendamiento de equipo de transporte,15000,0,-15000,0,0,0,0,0
+Subsidio federal,54101020,SG,3310101,DCBS,ODCSBS,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",25000,0,-25000,0,0,0,0,0
+Subsidio federal,54101020,SG,3610101,DCBS,ODCSBS,Difusión de mensajes sobre programas y actividades institucionales.,12000,0,-10796.48,1203.52,0,0,0,1203.52
+Subsidio federal,54101020,SG,3720402,DCBS,ODCSBS,Peajes,45000,0,-10424,34576,0,3500,7870,26706
+Subsidio federal,54101020,SG,3750401,DCBS,ODCSBS,Viáticos en Territorio Nacional,43000,0,-1584,41416,0,20500,35875,5541
+Subsidio federal,54101021,MS,2110101,DCBS,ODCSBS,Papeleria y Articulos de Oficina,10000,0,0,10000,0,0,0,10000
+Subsidio federal,54101021,MS,2150203,DCBS,ODCSBS,Libros adquiridos,120000,0,0,120000,119792,0,119792,208
+Subsidio federal,54101021,MS,2550101,DCBS,ODCSBS,"Materiales, accesorios y suministros de laboratorio",70000,0,-27230,42770,0,0,1299.2,41470.8
+Subsidio federal,54101021,SG,3310101,DCBS,ODCSBS,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",25000,0,-25000,0,0,0,0,0
+Subsidio federal,54101021,SG,3360401,DCBS,ODCSBS,Impresión y elaboración de material informativo derivado de la operación y administración,10000,0,-8932,1068,0,0,0,1068
+Subsidio federal,54101021,SG,3540101,DCBS,ODCSBS,"Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio",20000,0,0,20000,0,0,0,20000
+Subsidio federal,54101021,SG,3830101,DCBS,ODCSBS,Colaboración para Eventos,15000,0,0,15000,0,0,3422,11578
+Subsidio federal,54101022,MS,2150203,DCBS,ODCSBS,Libros adquiridos,160000,0,0,160000,0,0,0,160000
+Subsidio federal,54101022,MS,2160101,DCBS,ODCSBS,Material de limpieza,2000,0,0,2000,0,0,0,2000
+Subsidio federal,54101022,MS,2550101,DCBS,ODCSBS,"Materiales, accesorios y suministros de laboratorio",100000,0,-52230,47770,0,0,0,47770
+Subsidio federal,54101022,MS,2610301,DCBS,ODCSBS,"Combustibles, lubricantes y aditivos",6000,0,0,6000,0,0,0,6000
+Subsidio federal,54101022,MS,2950101,DCBS,ODCSBS,Refacciones y Accesorios Menores de Equipo e Instrumental Médico y de Laboratorio,10000,0,0,10000,0,0,0,10000
+Subsidio federal,54101022,SG,3120101,DCBS,ODCSBS,Servicio de gas,1000,0,0,1000,0,0,0,1000
+Subsidio federal,54101022,SG,3540101,DCBS,ODCSBS,"Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio",8000,0,0,8000,0,0,0,8000
+Subsidio federal,54101022,SG,3610101,DCBS,ODCSBS,Difusión de mensajes sobre programas y actividades institucionales.,8000,0,-6380,1620,580,0,580,1040
+Subsidio federal,54101022,SG,3720401,DCBS,ODCSBS,Pasajes terrestres nacionales,5000,0,0,5000,0,0,0,5000
+Subsidio federal,54101022,SG,3720402,DCBS,ODCSBS,Peajes,5000,0,0,5000,0,0,0,5000
+Subsidio federal,54101022,SG,3830101,DCBS,ODCSBS,Colaboración para Eventos,5000,0,0,5000,0,0,0,5000
+Subsidio federal,54101023,MS,2110101,DCBS,ODCSBS,Papeleria y Articulos de Oficina,3104,0,0,3104,0,0,0,3104
+Subsidio federal,54101023,MS,2150203,DCBS,ODCSBS,Libros adquiridos,106896,0,0,106896,106810,0,106810,86
+Subsidio federal,54101023,MS,2550101,DCBS,ODCSBS,"Materiales, accesorios y suministros de laboratorio",45000,0,0,45000,0,0,0,45000
+Subsidio federal,54101023,SG,3750401,DCBS,ODCSBS,Viáticos en Territorio Nacional,1500,0,0,1500,0,0,0,1500
+Subsidio federal,54101023,SG,3790102,DCBS,ODCSBS,Gastos de transportación para alumnos e invitados,1500,0,0,1500,0,0,0,1500
+Subsidio federal,54101023,SG,3830101,DCBS,ODCSBS,Colaboración para Eventos,2000,0,0,2000,0,0,0,2000
+Subsidio federal,54201002,MS,2110101,DCBS,SADCBS,Papeleria y Articulos de Oficina,71165.26,0,-18541.05,52624.21,0,0,0,52624.21
+Subsidio federal,54201002,MS,2210401,DCBS,SADCBS,Productos alimenticios para el personal en las instalaciones,15500,0,6000,21500,362.34,0,6106.5,15393.5
+Subsidio federal,54201002,TAS,4410301,DCBS,SADCBS,"PREMIOS, RECOMPENSAS, PENSIONES DE GRACIA Y PENSION RECREATIVA ESTUDIANTIL.",33335,0,-33335,0,0,0,0,0
+Subsidio federal,54201003,SG,3360401,DCBS,ODCSBS,Impresión y elaboración de material informativo derivado de la operación y administración,85980,0,0,85980,0,0,0,85980
+Subsidio federal,54301007,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,5000,0,0,5000,0,0,2752.68,2247.32
+Subsidio federal,54301007,MS,2120101,DCBS,DCAM,"Materiales y útiles de impresión, reproducción y encuadernación",10000,0,-10000,0,0,0,0,0
+Subsidio federal,54301007,MS,2940101,DCBS,DCAM,Refacciones y Accesorios para equipo de cómputo,5000,0,0,5000,0,0,0,5000
+Subsidio federal,54301025,SG,3540101,DCBS,DCAM,"Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio",120000,0,-1116,118884,0,0,96488.8,22395.2
+Subsidio federal,54301025,SG,3550101,DCBS,DCAM,Servicios de Mantenimiento de Transporte,10000,0,14940,24940,0,0,24940,0
+Subsidio federal,54301025,BMII,5150101,DCBS,DCAM,Equipo de cómputo y de tecnologías de la información,20000,0,-2147.52,17852.48,0,0,0,17852.48
+Subsidio federal,54301025,BMII,5310101,DCBS,DCAM,Equipo médico y de laboratorio,0,0,12913.52,12913.52,11994.4,0,11994.4,919.12
+Subsidio federal,54301026,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,41858.24,0,-33460.23,8398.01,0,0,8236,162.01
+Subsidio federal,54301026,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",85000,0,-69479.77,15520.23,0,0,0,15520.23
+Subsidio federal,54301026,MS,2610301,DCBS,DCAM,"Combustibles, lubricantes y aditivos",9000,0,-9000,0,0,0,0,0
+Subsidio federal,54301026,SG,3190201,DCBS,DCAM,Contratación de otros servicios,60000,0,-51448.62,8551.38,0,0,0,8551.38
+Subsidio federal,54301026,SG,3270101,DCBS,DCAM,"Patentes, derechos de autor, regalías y otros",6000,0,14142,20142,0,0,19488,654
+Subsidio federal,54301026,SG,3360401,DCBS,DCAM,Impresión y elaboración de material informativo derivado de la operación y administración,45000,0,-25000,20000,0,0,0,20000
+Subsidio federal,54301026,SG,3610101,DCBS,DCAM,Difusión de mensajes sobre programas y actividades institucionales.,5000,0,-5000,0,0,0,0,0
+Subsidio federal,54301026,SG,3710601,DCBS,DCAM,Pasaje aéreos internacionales,10000,0,-10000,0,0,0,0,0
+Subsidio federal,54301026,SG,3720402,DCBS,DCAM,Peajes,2000,0,-2000,0,0,0,0,0
+Subsidio federal,54301026,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,8000,0,-8000,0,0,0,0,0
+Subsidio federal,54301026,SG,3760201,DCBS,DCAM,Viáticos en el extranjero,10000,0,-10000,0,0,0,0,0
+Subsidio federal,54301026,SG,3790101,DCBS,DCAM,Gastos para operativos en trabajos de campo,8000,0,-8000,0,0,0,0,0
+Subsidio federal,54301026,SG,3830101,DCBS,DCAM,Colaboración para Eventos,11000,0,-11000,0,0,0,0,0
+Subsidio federal,54301026,SG,3920201,DCBS,DCAM,Otros impuestos y derechos,0,0,1798.62,1798.62,0,0,1798,0.62
+Subsidio federal,54301026,BMII,5910101,DCBS,DCAM,Software,0,0,101858,101858,101857.44,0,101857.44,0.56
+Subsidio federal,54301027,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,5000,0,0,5000,0,0,0,5000
+Subsidio federal,54301027,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",7000,0,0,7000,0,0,0,7000
+Subsidio federal,54301027,SG,3180101,DCBS,DCAM,Servicio postal,2000,0,0,2000,0,0,0,2000
+Subsidio federal,54301027,SG,3270101,DCBS,DCAM,"Patentes, derechos de autor, regalías y otros",11000,0,0,11000,0,0,5660.05,5339.95
+Subsidio federal,54301027,SG,3710401,DCBS,DCAM,Pasajes aéreos nacionales,10000,0,0,10000,0,0,0,10000
+Subsidio federal,54301027,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,10000,0,0,10000,0,0,0,10000
+Subsidio federal,54301027,SG,3830101,DCBS,DCAM,Colaboración para Eventos,5000,0,0,5000,0,0,0,5000
+Remanentes,54301028,MS,2150208,DCBS,DCAM,Software no especializado,0,20000,0,20000,0,0,0,20000
+Remanentes,54301028,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",0,130000,0,130000,0,0,0,130000
+Remanentes,54301028,SG,3190201,DCBS,DCAM,Contratación de otros servicios,0,248538.59,0,248538.59,0,0,108909.76,139628.83
+Remanentes,54301028,SG,3360401,DCBS,DCAM,Impresión y elaboración de material informativo derivado de la operación y administración,0,40000,-3077.11,36922.89,0,0,0,36922.89
+Remanentes,54301028,SG,3530101,DCBS,DCAM,Mantenimiento y conservación de bienes informáticos,0,37076.44,3077.11,40153.55,0,0,40153.11,0.44
+Remanentes,54301028,TAS,4390110,DCBS,DCAM,Beca para participar en Eventos  de Difusión y de Investigación en Ciencia y Tecnología,0,10000,0,10000,0,0,0,10000
+Subsidio federal,54302001,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,0,0,10000,10000,0,0,0,10000
+Subsidio federal,54302001,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",0,0,15000,15000,0,0,0,15000
+Subsidio federal,54302001,MS,2610301,DCBS,DCAM,"Combustibles, lubricantes y aditivos",0,0,5000,5000,0,0,0,5000
+Subsidio federal,54302001,SG,3190201,DCBS,DCAM,Contratación de otros servicios,0,0,10000,10000,0,0,0,10000
+Subsidio federal,54302001,SG,3610101,DCBS,DCAM,Difusión de mensajes sobre programas y actividades institucionales.,0,0,5000,5000,0,0,0,5000
+Subsidio federal,54302001,SG,3830101,DCBS,DCAM,Colaboración para Eventos,0,0,5000,5000,0,0,0,5000
+Subsidio federal,54302002,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,0,0,1200,1200,0,0,0,1200
+Subsidio federal,54302002,MS,2610301,DCBS,DCAM,"Combustibles, lubricantes y aditivos",0,0,3000,3000,0,0,1223.9,1776.1
+Subsidio federal,54302002,SG,3360401,DCBS,DCAM,Impresión y elaboración de material informativo derivado de la operación y administración,0,0,5578,5578,0,0,0,5578
+Subsidio federal,54302002,SG,3710401,DCBS,DCAM,Pasajes aéreos nacionales,0,0,14222,14222,0,0,14222,0
+Subsidio federal,54302002,SG,3710601,DCBS,DCAM,Pasaje aéreos internacionales,0,0,10000,10000,0,0,10000,0
+Subsidio federal,54302002,SG,3720402,DCBS,DCAM,Peajes,0,0,0,0,0,0,0,0
+Subsidio federal,54302002,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,0,0,8000,8000,0,0,6000,2000
+Subsidio federal,54302002,SG,3760201,DCBS,DCAM,Viáticos en el extranjero,0,0,0,0,0,0,0,0
+Subsidio federal,54302002,SG,3790101,DCBS,DCAM,Gastos para operativos en trabajos de campo,0,0,8000,8000,0,0,8000,0
+Subsidio federal,54302002,SG,3830101,DCBS,DCAM,Colaboración para Eventos,0,0,0,0,0,0,0,0
+Subsidio federal,54302009,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,3000,0,0,3000,0,0,0,3000
+Subsidio federal,54302009,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",4000,0,0,4000,0,0,0,4000
+Subsidio federal,54302009,MS,2610301,DCBS,DCAM,"Combustibles, lubricantes y aditivos",8000,0,0,8000,0,0,4000,4000
+Subsidio federal,54302009,SG,3720402,DCBS,DCAM,Peajes,0,0,1000,1000,0,0,1000,0
+Subsidio federal,54302009,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,10000,0,0,10000,0,0,0,10000
+Subsidio federal,54302009,SG,3790101,DCBS,DCAM,Gastos para operativos en trabajos de campo,25000,0,-1000,24000,0,0,5000,19000
+Subsidio federal,54302010,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,8000,0,-5095,2905,0,0,0,2905
+Subsidio federal,54302010,SG,3360401,DCBS,DCAM,Impresión y elaboración de material informativo derivado de la operación y administración,16000,0,0,16000,0,0,0,16000
+Subsidio federal,54302010,SG,3710401,DCBS,DCAM,Pasajes aéreos nacionales,5000,0,0,5000,0,0,0,5000
+Subsidio federal,54302010,SG,3710601,DCBS,DCAM,Pasaje aéreos internacionales,10000,0,5095,15095,0,0,0,15095
+Subsidio federal,54302010,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,2000,0,0,2000,0,0,0,2000
+Subsidio federal,54302010,SG,3760201,DCBS,DCAM,Viáticos en el extranjero,6000,0,0,6000,0,6000,6000,0
+Subsidio federal,54302010,SG,3830101,DCBS,DCAM,Colaboración para Eventos,3000,0,0,3000,0,0,0,3000
+Subsidio federal,54302011,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,3500,0,0,3500,0,0,0,3500
+Subsidio federal,54302011,MS,2120101,DCBS,DCAM,"Materiales y útiles de impresión, reproducción y encuadernación",1500,0,0,1500,0,0,0,1500
+Subsidio federal,54302011,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",10000,0,0,10000,1461.6,0,1461.6,8538.4
+Subsidio federal,54302011,MS,2610301,DCBS,DCAM,"Combustibles, lubricantes y aditivos",4000,0,0,4000,0,0,0,4000
+Subsidio federal,54302011,SG,3710401,DCBS,DCAM,Pasajes aéreos nacionales,6000,0,0,6000,0,0,0,6000
+Subsidio federal,54302011,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,6000,0,0,6000,0,0,0,6000
+Subsidio federal,54302011,SG,3790101,DCBS,DCAM,Gastos para operativos en trabajos de campo,19000,0,0,19000,0,0,0,19000
+Remanentes,54302012,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",0,27465.21,0,27465.21,0,0,4029.89,23435.32
+Remanentes,54302012,MS,2610301,DCBS,DCAM,"Combustibles, lubricantes y aditivos",0,0,5000,5000,0,0,2518.25,2481.75
+Remanentes,54302012,SG,3720402,DCBS,DCAM,Peajes,0,0,2000,2000,0,0,1000,1000
+Remanentes,54302012,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,0,11844,-7000,4844,0,3000,3000,1844
+Remanentes,54302012,SG,3790101,DCBS,DCAM,Gastos para operativos en trabajos de campo,0,65000,0,65000,0,13000,48090.67,16909.33
+Remanentes,54302013,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,0,559,0,559,0,0,0,559
+Remanentes,54302013,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",0,54000,0,54000,0,0,0,54000
+Remanentes,54302013,MS,2910101,DCBS,DCAM,Herramientas Menores,0,10000,0,10000,0,0,0,10000
+Remanentes,54302013,SG,3710601,DCBS,DCAM,Pasaje aéreos internacionales,0,0,25344,25344,0,0,25344,0
+Remanentes,54302013,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,0,20875,-20875,0,0,0,0,0
+Remanentes,54302013,SG,3760201,DCBS,DCAM,Viáticos en el extranjero,0,0,4656,4656,0,0,4656,0
+Remanentes,54302013,SG,3790101,DCBS,DCAM,Gastos para operativos en trabajos de campo,0,18000,-2116.08,15883.92,0,0,0,15883.92
+Remanentes,54302013,SG,3830101,DCBS,DCAM,Colaboración para Eventos,0,12001,-7008.92,4992.08,0,0,4992.08,0
+Subsidio federal,54304003,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,2000,0,0,2000,0,0,1893.75,106.25
+Subsidio federal,54304003,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",38000,0,47000,85000,7147.92,0,64137.92,20862.08
+Subsidio federal,54304003,SG,3190201,DCBS,DCAM,Contratación de otros servicios,10000,0,3000,13000,0,0,6372.87,6627.13
+Subsidio federal,54304004,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",50000,0,-15000,35000,0,0,3044.35,31955.65
+Subsidio federal,54304009,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,2000,0,-2000,0,0,0,0,0
+Subsidio federal,54304009,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",14500,0,17000,31500,14732.6,0,31395.77,104.23
+Subsidio federal,54304009,SG,3180101,DCBS,DCAM,Servicio postal,3500,0,-2500,1000,0,0,0,1000
+Subsidio federal,54304009,SG,3190201,DCBS,DCAM,Contratación de otros servicios,30000,0,-20000,10000,0,0,5579.61,4420.39
+Subsidio federal,54304010,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,2000,0,0,2000,0,0,0,2000
+Subsidio federal,54304010,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",32000,0,5000,37000,0,0,21691.28,15308.72
+Subsidio federal,54304010,SG,3120101,DCBS,DCAM,Servicio de gas,0,0,10440,10440,0,0,10440,0
+Subsidio federal,54304010,SG,3190201,DCBS,DCAM,Contratación de otros servicios,16000,0,-10440,5560,0,0,0,5560
+Subsidio federal,54304011,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,2000,0,-2000,0,0,0,0,0
+Subsidio federal,54304011,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",8000,0,17981.76,25981.76,8314.55,0,22041.29,3940.47
+Subsidio federal,54304011,MS,2550103,DCBS,DCAM,Bacterias y virus,5000,0,-5000,0,0,0,0,0
+Subsidio federal,54304011,MS,2590101,DCBS,DCAM,Otros productos químicos,30000,0,-25981.76,4018.24,0,0,3944,74.24
+Subsidio federal,54304011,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,5000,0,0,5000,0,0,0,5000
+Subsidio federal,54304014,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,2000,0,-2000,0,0,0,0,0
+Subsidio federal,54304014,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",27000,0,-5601,21399,0,0,19884.95,1514.05
+Subsidio federal,54304014,SG,3180101,DCBS,DCAM,Servicio postal,3500,0,101,3601,0,0,1835.3,1765.7
+Subsidio federal,54304014,SG,3190201,DCBS,DCAM,Contratación de otros servicios,17500,0,-17500,0,0,0,0,0
+Remanentes,54304015,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,0,10174.13,0,10174.13,0,0,0,10174.13
+Subsidio federal,54305001,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,50000,0,-33069.96,16930.04,0,0,15230.8,1699.24
+Subsidio federal,54305001,MS,2920101,DCBS,DCAM,Refacciones y Accesorios Menores de edificios,0,0,5405.6,5405.6,0,0,5405.6,0
+Subsidio federal,54305002,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",10000,0,1680,11680,0,0,11553.79,126.21
+Subsidio federal,54305002,MS,2610301,DCBS,DCAM,"Combustibles, lubricantes y aditivos",10000,0,0,10000,0,0,5000,5000
+Subsidio federal,54305002,SG,3720402,DCBS,DCAM,Peajes,10000,0,-1680,8320,0,0,4485,3835
+Subsidio federal,54305002,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,6000,0,0,6000,0,0,3000,3000
+Subsidio federal,54305002,SG,3790101,DCBS,DCAM,Gastos para operativos en trabajos de campo,14000,0,0,14000,0,0,7000,7000
+Subsidio federal,54305003,MS,2610301,DCBS,DCAM,"Combustibles, lubricantes y aditivos",15000,0,0,15000,0,0,0,15000
+Subsidio federal,54305003,SG,3710601,DCBS,DCAM,Pasaje aéreos internacionales,0,0,12926,12926,0,0,0,12926
+Subsidio federal,54305003,SG,3720402,DCBS,DCAM,Peajes,15000,0,-12926,2074,0,0,0,2074
+Subsidio federal,54305003,SG,3750401,DCBS,DCAM,Viáticos en Territorio Nacional,20000,0,0,20000,0,0,0,20000
+Subsidio federal,54305004,MS,2110101,DCBS,DCAM,Papeleria y Articulos de Oficina,10000,0,-10000,0,0,0,0,0
+Subsidio federal,54305004,MS,2140101,DCBS,DCAM,Materiales y útiles para el procesamiento en equipos y bienes informáticos,10000,0,0,10000,0,0,0,10000
+Subsidio federal,54305004,MS,2150203,DCBS,DCAM,Libros adquiridos,10000,0,0,10000,0,0,0,10000
+Subsidio federal,54305004,MS,2550101,DCBS,DCAM,"Materiales, accesorios y suministros de laboratorio",20000,0,-3998.4,16001.6,0,0,0,16001.6
+Subsidio federal,54305004,MS,2940101,DCBS,DCAM,Refacciones y Accesorios para equipo de cómputo,0,0,10000,10000,0,0,9218.52,781.48
+Remanentes,54401008,SP,1210102,DCBS,DCAL,Honorarios asimilables a salarios,0,1325.96,30000,31325.96,0,0,31226.64,99.32
+Remanentes,54401008,MS,2550101,DCBS,DCAL,"Materiales, accesorios y suministros de laboratorio",0,85660.16,-30000,55660.16,0,0,0,55660.16
+Subsidio federal,54401009,MS,2110101,DCBS,DCAL,Papeleria y Articulos de Oficina,3000,0,45000,48000,7645.03,0,8793.43,39206.57
+Subsidio federal,54401009,MS,2120101,DCBS,DCAL,"Materiales y útiles de impresión, reproducción y encuadernación",3000,0,0,3000,0,0,0,3000
+Subsidio federal,54401009,MS,2210301,DCBS,DCAL,Productos alimenticios para el personal que realiza labores en campo o de supervisión,3000,0,0,3000,0,0,0,3000
+Subsidio federal,54401009,MS,2490101,DCBS,DCAL,Otros materiales y artículos de construcción y reparación,6000,0,0,6000,0,0,0,6000
+Subsidio federal,54401009,MS,2550101,DCBS,DCAL,"Materiales, accesorios y suministros de laboratorio",250000,0,-194250,55750,0,0,48409.79,7340.21
+Subsidio federal,54401009,MS,2940101,DCBS,DCAL,Refacciones y Accesorios para equipo de cómputo,3000,0,0,3000,0,0,0,3000
+Subsidio federal,54401009,SG,3270101,DCBS,DCAL,"Patentes, derechos de autor, regalías y otros",20000,0,0,20000,0,0,0,20000
+Subsidio federal,54401009,SG,3360401,DCBS,DCAL,Impresión y elaboración de material informativo derivado de la operación y administración,90000,0,-42162,47838,0,0,47838,0
+Subsidio federal,54401009,SG,3540101,DCBS,DCAL,"Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio",55000,0,0,55000,0,0,17400,37600
+Subsidio federal,54401009,SG,3710401,DCBS,DCAL,Pasajes aéreos nacionales,50000,0,-47838,2162,0,0,0,2162
+Subsidio federal,54401009,SG,3750401,DCBS,DCAL,Viáticos en Territorio Nacional,50000,0,0,50000,0,0,0,50000
+Subsidio federal,54401009,BMII,5110101,DCBS,DCAL,Mobiliario,20000,0,-20000,0,0,0,0,0
+Subsidio federal,54401009,BMII,5150101,DCBS,DCAL,Equipo de cómputo y de tecnologías de la información,50000,0,-50000,0,0,0,0,0
+Subsidio federal,54401009,BMII,5310101,DCBS,DCAL,Equipo médico y de laboratorio,446213.32,0,254250,700463.32,46632,0,670623.84,29839.48
+Subsidio federal,54401009,IP,6220202,DCBS,DCAL,Mantenimiento de Infraestructura Física,45000,0,-45000,0,0,0,0,0
+Subsidio federal,54402013,MS,2550101,DCBS,DCAL,"Materiales, accesorios y suministros de laboratorio",0,0,50000,50000,15690.31,0,15690.31,34309.69
+Subsidio federal,54402014,MS,2550101,DCBS,DCAL,"Materiales, accesorios y suministros de laboratorio",0,0,50000,50000,0,0,0,50000
+Subsidio federal,54501003,MS,2110101,DCBS,DCSA,Papeleria y Articulos de Oficina,7000,0,0,7000,0,0,6988.4,11.6
+Subsidio federal,54501003,MS,2160101,DCBS,DCSA,Material de limpieza,3000,0,0,3000,0,0,0,3000
+Subsidio federal,54501003,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",334593.32,0,-28130,306463.32,39152.3,0,43494.11,262969.21
+Subsidio federal,54501003,SG,3190201,DCBS,DCSA,Contratación de otros servicios,13000,0,0,13000,0,0,0,13000
+Subsidio federal,54501003,SG,3360401,DCBS,DCSA,Impresión y elaboración de material informativo derivado de la operación y administración,51000,0,0,51000,0,0,0,51000
+Subsidio federal,54501003,SG,3540101,DCBS,DCSA,"Instalación, reparación y mantenimiento de equipo e instrumental médico y de laboratorio",158000,0,0,158000,0,0,75864,82136
+Subsidio federal,54501003,SG,3830101,DCBS,DCSA,Colaboración para Eventos,20000,0,0,20000,0,0,0,20000
+Subsidio federal,54501003,BMII,5310101,DCBS,DCSA,Equipo médico y de laboratorio,11020,0,10130,21150,0,0,20364.96,785.04
+Subsidio federal,54501003,BMII,5660101,DCBS,DCSA,Maquinaria y equipo eléctrico y electrónico,25000,0,8000,33000,0,0,32874.4,125.6
+Subsidio federal,54501012,MS,2110101,DCBS,DCSA,Papeleria y Articulos de Oficina,4500,0,-108,4392,0,0,0,4392
+Subsidio federal,54501012,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",25000,0,0,25000,0,0,0,25000
+Subsidio federal,54501012,SG,3190201,DCBS,DCSA,Contratación de otros servicios,22500,0,0,22500,0,0,0,22500
+Subsidio federal,54501012,BMII,5150101,DCBS,DCSA,Equipo de cómputo y de tecnologías de la información,0,0,8108,8108,0,0,8107.24,0.76
+Subsidio federal,54501012,BMII,5310101,DCBS,DCSA,Equipo médico y de laboratorio,8000,0,-8000,0,0,0,0,0
+Remanentes,54501013,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",0,38934.34,295,39229.34,0,0,39228.3,1.04
+Remanentes,54501013,SG,3190201,DCBS,DCSA,Contratación de otros servicios,0,33381,-295,33086,0,0,0,33086
+Remanentes,54501014,MS,2110101,DCBS,DCSA,Papeleria y Articulos de Oficina,0,80166,-23129.99,57036.01,0,0,0,57036.01
+Remanentes,54501014,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",0,0,13129.99,13129.99,0,0,12973.44,156.55
+Remanentes,54501014,MS,2610301,DCBS,DCSA,"Combustibles, lubricantes y aditivos",0,0,1500,1500,0,0,1104.55,395.45
+Remanentes,54501014,SG,3720402,DCBS,DCSA,Peajes,0,0,1500,1500,0,0,747.47,752.53
+Remanentes,54501014,SG,3750401,DCBS,DCSA,Viáticos en Territorio Nacional,0,6150,-3000,3150,0,0,936,2214
+Remanentes,54501014,SG,3830101,DCBS,DCSA,Colaboración para Eventos,0,0,10000,10000,0,9303,9303,697
+Subsidio federal,54501017,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",26700,0,0,26700,0,0,810.84,25889.16
+Subsidio federal,54501017,BMII,5150101,DCBS,DCSA,Equipo de cómputo y de tecnologías de la información,30000,0,0,30000,0,0,28164.8,1835.2
+Subsidio federal,54501019,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",38400,0,-38400,0,0,0,0,0
+Subsidio federal,54501019,MS,2940101,DCBS,DCSA,Refacciones y Accesorios para equipo de cómputo,0,0,45500,45500,0,0,45463.88,36.12
+Subsidio federal,54501019,SG,3270101,DCBS,DCSA,"Patentes, derechos de autor, regalías y otros",6000,0,-6000,0,0,0,0,0
+Subsidio federal,54501019,SG,3710401,DCBS,DCSA,Pasajes aéreos nacionales,9000,0,-1100,7900,0,0,0,7900
+Remanentes,54501020,MS,2110101,DCBS,DCSA,Papeleria y Articulos de Oficina,0,138522.59,0,138522.59,0,0,0,138522.59
+Subsidio federal,54502007,MS,2220101,DCBS,DCSA,Productos alimenticios para animales,11000,0,-3125,7875,0,0,7875,0
+Subsidio federal,54502007,MS,2540101,DCBS,DCSA,"Materiales, accesorios y suministros médicos.",34666.66,0,-34666.66,0,0,0,0,0
+Subsidio federal,54502007,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",17333.34,0,47791.66,65125,5593.52,0,63808.12,1316.88
+Subsidio federal,54502008,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",63000,0,-27761.58,35238.42,0,0,3129.68,32108.74
+Subsidio federal,54502008,BMII,5310101,DCBS,DCSA,Equipo médico y de laboratorio,0,0,27761.58,27761.58,27761.58,0,27761.58,0
+Subsidio federal,54502009,MS,2110101,DCBS,DCSA,Papeleria y Articulos de Oficina,23000,0,-3709.6,19290.4,0,0,0,19290.4
+Subsidio federal,54502009,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",30000,0,3709.6,33709.6,33709.6,0,33709.6,0
+Subsidio federal,54502009,SG,3760201,DCBS,DCSA,Viáticos en el extranjero,10000,0,0,10000,0,0,0,10000
+Subsidio federal,54502011,SG,3360401,DCBS,DCSA,Impresión y elaboración de material informativo derivado de la operación y administración,30000,0,0,30000,0,0,0,30000
+Subsidio federal,54502012,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",30000,0,0,30000,0,0,0,30000
+Subsidio federal,54502012,SG,3270101,DCBS,DCSA,"Patentes, derechos de autor, regalías y otros",2000,0,0,2000,1471.01,0,1471.01,528.99
+Subsidio federal,54502012,SG,3720601,DCBS,DCSA,Pasajes terrestres internacionales,15000,0,0,15000,0,0,0,15000
+Subsidio federal,54502012,SG,3750401,DCBS,DCSA,Viáticos en Territorio Nacional,3000,0,0,3000,0,0,0,3000
+Subsidio federal,54502012,SG,3760201,DCBS,DCSA,Viáticos en el extranjero,6000,0,0,6000,0,0,0,6000
+Remanentes,54502013,MS,2110101,DCBS,DCSA,Papeleria y Articulos de Oficina,0,25000,-13000,12000,0,0,3250.9,8749.1
+Remanentes,54502013,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",0,166000,0,166000,36399.95,0,165742.4,257.6
+Remanentes,54502013,SG,3360401,DCBS,DCSA,Impresión y elaboración de material informativo derivado de la operación y administración,0,50000,23000,73000,0,0,69471.15,3528.85
+Remanentes,54502013,SG,3790102,DCBS,DCSA,Gastos de transportación para alumnos e invitados,0,10000,-10000,0,0,0,0,0
+Remanentes,54502013,SG,3790103,DCBS,DCSA,Gastos de alimentación y  hospedaje  para alumnos e invitados,0,10000,0,10000,0,5000,10000,0
+Remanentes,54502013,BMII,5150101,DCBS,DCSA,Equipo de cómputo y de tecnologías de la información,0,80000,-20000,60000,0,0,48346.47,11653.53
+Remanentes,54502013,BMII,5310101,DCBS,DCSA,Equipo médico y de laboratorio,0,159000,20000,179000,0,0,172811,6189
+Subsidio federal,54502014,MS,2110101,DCBS,DCSA,Papeleria y Articulos de Oficina,3250,0,0,3250,0,0,0,3250
+Subsidio federal,54502014,MS,2550101,DCBS,DCSA,"Materiales, accesorios y suministros de laboratorio",5000,0,0,5000,0,0,0,5000
+Subsidio federal,54502014,SG,3750401,DCBS,DCSA,Viáticos en Territorio Nacional,10250,0,0,10250,0,0,0,10250
+Subsidio federal,54502014,SG,3830101,DCBS,DCSA,Colaboración para Eventos,8000,0,0,8000,0,0,0,8000
+Subsidio federal,54599001,SP,1710210,DCBS,DCSA,Premios Académicos a la Docencia e Investigación,0,0,51876.05,51876.05,0,0,51876.05,0
+Subsidio federal,55101014,MS,2110101,SUL,OSUL,Papeleria y Articulos de Oficina,0,0,168000,168000,16740.25,0,158402.26,9597.74
+Subsidio federal,55101014,MS,2120101,SUL,OSUL,"Materiales y útiles de impresión, reproducción y encuadernación",0,0,172000,172000,0,0,168276.56,3723.44
+Subsidio federal,55101014,MS,2210301,SUL,OSUL,Productos alimenticios para el personal que realiza labores en campo o de supervisión,27450,0,-25000,2450,0,0,1670,780
+Subsidio federal,55101014,MS,2210401,SUL,OSUL,Productos alimenticios para el personal en las instalaciones,0,0,30332,30332,2676.89,0,29854.41,477.59
+Subsidio federal,55101014,MS,2610301,SUL,OSUL,"Combustibles, lubricantes y aditivos",48000,0,0,48000,4170,0,31147.63,16852.37
+Subsidio federal,55101014,SG,3550101,SUL,OSUL,Servicios de Mantenimiento de Transporte,35000,0,0,35000,0,0,1405.15,33594.85
+Subsidio federal,55101014,SG,3720402,SUL,OSUL,Peajes,20000,0,0,20000,6000,0,14000,6000
+Subsidio federal,55101014,SG,3830101,SUL,OSUL,Colaboración para Eventos,30000,0,-1258,28742,0,0,0,28742
+Subsidio federal,55101014,SG,3920201,SUL,OSUL,Otros impuestos y derechos,2000,0,0,2000,0,0,0,2000
+Subsidio federal,55101016,MS,2110101,SUL,OSUL,Papeleria y Articulos de Oficina,250000,0,-172000,78000,0,0,2958,75042
+Subsidio federal,55101016,MS,2210401,SUL,OSUL,Productos alimenticios para el personal en las instalaciones,5000,0,-3004,1996,0,0,0,1996
+Subsidio federal,55101016,SG,3230101,SUL,OSUL,Arrendamiento de Equipo y Bienes Informaticos,45000,0,-5332,39668,0,19488,33408,6260
+Subsidio federal,55101021,MS,2710101,SUL,OSUL,Ropa de trabajo,635250,0,-628943.94,6306.06,1438.68,0,6244.74,61.32
+Ingresos propios adecuables,55101026,BMII,5190101,SUL,OSUL,Equipo de administración,0,7188.6,0,7188.6,0,0,0,7188.6
+Subsidio federal,55101030,MS,2110101,SUL,OSUL,Papeleria y Articulos de Oficina,474500,0,-273395.75,201104.25,0,0,0,201104.25
+Subsidio federal,55101030,MS,2210401,SUL,OSUL,Productos alimenticios para el personal en las instalaciones,5000,0,-5000,0,0,0,0,0
+Subsidio federal,55101030,MS,2610301,SUL,OSUL,"Combustibles, lubricantes y aditivos",27300,0,0,27300,0,0,0,27300
+Subsidio federal,55101030,SG,3310101,SUL,OSUL,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",22000,0,-22000,0,0,0,0,0
+Subsidio federal,55101030,SG,3720402,SUL,OSUL,Peajes,15000,0,0,15000,0,0,0,15000
+Subsidio federal,55101030,SG,3830101,SUL,OSUL,Colaboración para Eventos,474500,0,-460136.28,14363.72,0,0,0,14363.72
+Ingresos propios no adecuables,55101031,SG,3310101,SUL,OSUL,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",11000000,0,-10999999,1,0,0,0,1
+Ingresos propios no adecuables,55101031,SG,3510101,SUL,OSUL,Mantenimiento de Infraestructura Física (terceros),5000000,0,-680349,4319651,0,0,0,4319651
+Ingresos propios no adecuables,55101031,IP,6220104,SUL,OSUL,Adaptaciones en Áreas Exteriores (contratacion),0,0,3367498,3367498,0,2356128.16,3365897.36,1600.64
+Ingresos propios no adecuables,55101031,IP,6290502,SUL,OSUL,Servicios Relacionados con las Obras (Personas Morales),0,0,1261000,1261000,0,0,0,1261000
+Subsidio federal,55101033,MS,2110101,SUL,OSUL,Papeleria y Articulos de Oficina,1315000,0,0,1315000,0,0,0,1315000
+Subsidio federal,55101033,SG,3160301,SUL,OSUL,Servicios de Internet,420850,0,0,420850,0,0,204226.17,216623.83
+Subsidio federal,55101033,SG,3170101,SUL,OSUL,Servicios de conducción de señales analógicas y digitales,372500,0,0,372500,0,0,144771.01,227728.99
+Subsidio federal,55101033,SG,3270101,SUL,OSUL,"Patentes, derechos de autor, regalías y otros",976000,0,13880,989880,0,502370.14,502370.14,487509.86
+Subsidio federal,55101033,SG,3530102,SUL,OSUL,Mantenimiento a Software,373500,0,0,373500,0,77873.97,80603.24,292896.76
+Subsidio federal,55101033,SG,3530103,SUL,OSUL,Mantenimiento a la Infraestructura de Comunicacion de Voz y Datos,250000,0,0,250000,0,0,34506.7,215493.3
+Subsidio federal,55101033,SG,3830101,SUL,OSUL,Colaboración para Eventos,107500,0,0,107500,0,0,97376.51,10123.49
+Ingresos propios no adecuables,55101034,IP,6220104,SUL,OSUL,Adaptaciones en Áreas Exteriores (contratacion),0,0,5817502,5817502,0,0,0,5817502
+Ingresos propios no adecuables,55101035,IP,6220104,SUL,OSUL,Adaptaciones en Áreas Exteriores (contratacion),0,0,295348,295348,0,0,0,295348
+Ingresos propios no adecuables,55101036,SG,3310101,SUL,OSUL,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",0,0,0,0,0,0,0,0
+Ingresos propios no adecuables,55101036,IP,6220104,SUL,OSUL,Adaptaciones en Áreas Exteriores (contratacion),0,0,939000,939000,0,0,0,939000
+Subsidio federal,55199001,SP,1330101,SUL,OSUL,Tiempo Extraordinario,0,0,1258,1258,0,0,1257.96,0.04
+Subsidio federal,55201004,MS,2110101,SUL,CSA,Papeleria y Articulos de Oficina,55000,0,-4307.2,50692.8,0,0,7884.6,42808.2
+Subsidio federal,55201004,MS,2540101,SUL,CSA,"Materiales, accesorios y suministros médicos.",5000,0,0,5000,0,0,0,5000
+Subsidio federal,55201004,MS,2610301,SUL,CSA,"Combustibles, lubricantes y aditivos",7000,0,0,7000,0,0,0,7000
+Subsidio federal,55201004,SG,3190201,SUL,CSA,Contratación de otros servicios,50000,0,-29580,20420,0,0,0,20420
+Subsidio federal,55201004,SG,3270101,SUL,CSA,"Patentes, derechos de autor, regalías y otros",0,0,1317,1317,0,0,1316.09,0.91
+Subsidio federal,55201004,SG,3330101,SUL,CSA,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,177500,0,0,177500,0,0,72036,105464
+Subsidio federal,55201004,SG,3410101,SUL,CSA,Servicios bancarios y financieros,53500,0,-1261.33,52238.67,0,0,2551.06,49687.61
+Subsidio federal,55201004,SG,3410190,SUL,CSA,Comisiones bancarias (SERVICIOS BANCARIOS Y FINANCIEROS CONVENIOS PATROCINADOS),0,0,1261.33,1261.33,0,0,1261.33,0
+Subsidio federal,55201004,SG,3430103,SUL,CSA,Gastos inherentes al traslado y custodia de valores,0,0,29580,29580,2347.7,0,13336.91,16243.09
+Subsidio federal,55201004,SG,3520101,SUL,CSA,Mantenimiento y conservación de mobiliario y equipo de administración,25000,0,0,25000,0,0,0,25000
+Subsidio federal,55201004,SG,3720402,SUL,CSA,Peajes,7000,0,0,7000,0,0,0,7000
+Subsidio federal,55201004,SG,3830101,SUL,CSA,Colaboración para Eventos,50000,0,0,50000,0,0,0,50000
+Subsidio federal,55201004,BMII,5150101,SUL,CSA,Equipo de cómputo y de tecnologías de la información,25000,0,-25000,0,0,0,0,0
+Subsidio federal,55299001,SP,1330101,SUL,CSA,Tiempo Extraordinario,20000,0,0,20000,0,0,0,20000
+Subsidio federal,55301012,MS,2160101,SUL,CRM,Material de limpieza,565000,0,0,565000,0,0,225096.19,339903.81
+Subsidio federal,55301012,MS,2210201,SUL,CRM,"Comedores, cafeterías y kioscos",85000,0,0,85000,2642.88,0,36181.77,48818.23
+Subsidio federal,55301012,MS,2210401,SUL,CRM,Productos alimenticios para el personal en las instalaciones,130000,0,41579,171579,8607.22,0,116714.61,54864.39
+Subsidio federal,55301012,MS,2230101,SUL,CRM,Utensilios para el servicio de alimentación,20000,0,0,20000,0,0,6527.32,13472.68
+Subsidio federal,55301012,MS,2540101,SUL,CRM,"Materiales, accesorios y suministros médicos.",18000,0,0,18000,0,0,4728.25,13271.75
+Subsidio federal,55301012,MS,2610301,SUL,CRM,"Combustibles, lubricantes y aditivos",230000,0,30057.68,260057.68,19865.12,8000,151937.5,108120.18
+Subsidio federal,55301012,MS,2720101,SUL,CRM,Protección Civil,415000,0,0,415000,0,0,120124.42,294875.58
+Subsidio federal,55301012,MS,2910101,SUL,CRM,Herramientas Menores,236000,0,0,236000,99,0,12670.2,223329.8
+Subsidio federal,55301012,MS,2920101,SUL,CRM,Refacciones y Accesorios Menores de edificios,4000,0,0,4000,0,0,0,4000
+Subsidio federal,55301012,MS,2930101,SUL,CRM,"Refacciones y Accesorios Menores de  mobiliario, equipo de administración, educacional y recreativo",120000,0,0,120000,0,0,6131.76,113868.24
+Subsidio federal,55301012,MS,2940101,SUL,CRM,Refacciones y Accesorios para equipo de cómputo,5000,0,0,5000,0,0,0,5000
+Subsidio federal,55301012,MS,2960101,SUL,CRM,Refacciones y Accesorios Menores de Equipo de transporte,39000,0,0,39000,26114.86,0,26473.86,12526.14
+Subsidio federal,55301012,SG,3110101,SUL,CRM,Servicio de energía eléctrica,1980000,0,0,1980000,205636,0,1383787,596213
+Subsidio federal,55301012,SG,3120101,SUL,CRM,Servicio de gas,45000,0,0,45000,0,0,11821.35,33178.65
+Subsidio federal,55301012,SG,3130101,SUL,CRM,Servicio de agua,1100000,0,0,1100000,0,0,154130.36,945869.64
+Subsidio federal,55301012,SG,3150101,SUL,CRM,Servicio de telefonía celular,5000,0,0,5000,200,0,1400,3600
+Subsidio federal,55301012,SG,3190201,SUL,CRM,Contratación de otros servicios,4870000,0,0,4870000,118371.62,0,2286656.2,2583343.8
+Subsidio federal,55301012,SG,3250201,SUL,CRM,Arrendamiento de equipo de transporte,600000,0,211810.2,811810.2,52507.4,0,345149.31,466660.89
+Subsidio federal,55301012,SG,3360201,SUL,CRM,Otros servicios comerciales,3000,0,0,3000,992,0,992,2008
+Subsidio federal,55301012,SG,3360301,SUL,CRM,"Impresiones de documentos oficiales para la prestación de servicios públicos, identificación, formatos administrativos y fiscales, formas valoradas, certificados y títulos.",5000,0,0,5000,0,0,0,5000
+Subsidio federal,55301012,SG,3360401,SUL,CRM,Impresión y elaboración de material informativo derivado de la operación y administración,10000,0,10202,20202,0,0,18165.6,2036.4
+Subsidio federal,55301012,SG,3380101,SUL,CRM,Servicios de Vigilancia,1200000,0,0,1200000,50531.68,0,587997.44,612002.56
+Subsidio federal,55301012,SG,3450101,SUL,CRM,Seguros de bienes patrimoniales,7000,0,0,7000,0,0,580,6420
+Subsidio federal,55301012,SG,3470101,SUL,CRM,Fletes y maniobras,100000,0,-10202,89798,0,0,0,89798
+Subsidio federal,55301012,SG,3530103,SUL,CRM,Mantenimiento a la Infraestructura de Comunicacion de Voz y Datos,30000,0,0,30000,0,0,0,30000
+Subsidio federal,55301012,SG,3550101,SUL,CRM,Servicios de Mantenimiento de Transporte,167000,0,0,167000,0,0,135070,31930
+Subsidio federal,55301012,SG,3570101,SUL,CRM,Mantenimiento y conservación de maquinaria y equipo,75000,0,0,75000,0,0,26659.12,48340.88
+Subsidio federal,55301012,SG,3580101,SUL,CRM,"Servicio de lavandería, limpieza e higiene",165000,0,0,165000,0,0,1380,163620
+Subsidio federal,55301012,SG,3590101,SUL,CRM,Servicios de jardinería y fumigación,76500,0,0,76500,0,0,30160,46340
+Subsidio federal,55301012,SG,3720401,SUL,CRM,Pasajes terrestres nacionales,1000,0,0,1000,0,0,0,1000
+Subsidio federal,55301012,SG,3720402,SUL,CRM,Peajes,130000,0,-9732,120268,0,60000,60000,60268
+Subsidio federal,55301012,SG,3750401,SUL,CRM,Viáticos en Territorio Nacional,3500,0,2112,5612,0,0,0,5612
+Subsidio federal,55301012,SG,3920201,SUL,CRM,Otros impuestos y derechos,60000,0,0,60000,0,0,13852.2,46147.8
+Subsidio federal,55399001,SP,1210101,SUL,CRM,Honorarios asimilables a salarios pagados por nomina,75000,0,-26221.91,48778.09,0,0,0,48778.09
+Subsidio federal,55399001,SP,1330101,SUL,CRM,Tiempo Extraordinario,1425000,0,-272959,1152041,99088.04,0,872826.12,279214.88
+Subsidio federal,55401006,MS,2180101,SUL,CRH,Materiales para el registro e identificación de bienes y personas,7000,0,0,7000,0,0,0,7000
+Subsidio federal,55401006,MS,2610301,SUL,CRH,"Combustibles, lubricantes y aditivos",0,0,12000,12000,0,0,0,12000
+Subsidio federal,55401006,MS,2930101,SUL,CRH,"Refacciones y Accesorios Menores de  mobiliario, equipo de administración, educacional y recreativo",7000,0,-4036,2964,0,0,0,2964
+Subsidio federal,55401006,SG,3310101,SUL,CRH,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",0,0,0,0,0,0,0,0
+Subsidio federal,55401006,SG,3330101,SUL,CRH,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,0,0,66869.75,66869.75,0,22289.83,66869.51,0.24
+Subsidio federal,55401006,SG,3530101,SUL,CRH,Mantenimiento y conservación de bienes informáticos,10000,0,-10000,0,0,0,0,0
+Subsidio federal,55401006,SG,3750401,SUL,CRH,Viáticos en Territorio Nacional,0,0,0,0,0,0,0,0
+Subsidio federal,55401006,BMII,5150101,SUL,CRH,Equipo de cómputo y de tecnologías de la información,0,0,14036,14036,0,0,14036,0
+Subsidio federal,55499001,SP,1330101,SUL,CRH,Tiempo Extraordinario,4000,0,0,4000,0,0,0,4000
+Subsidio federal,55501002,MS,2110101,SUL,CSIC,Papeleria y Articulos de Oficina,9000,0,-8255,745,0,0,745,0
+Subsidio federal,55501002,MS,2120101,SUL,CSIC,"Materiales y útiles de impresión, reproducción y encuadernación",50000,0,0,50000,0,0,9604.8,40395.2
+Subsidio federal,55501002,MS,2210401,SUL,CSIC,Productos alimenticios para el personal en las instalaciones,5000,0,0,5000,0,0,0,5000
+Subsidio federal,55501002,MS,2610301,SUL,CSIC,"Combustibles, lubricantes y aditivos",10000,0,0,10000,0,0,3778,6222
+Subsidio federal,55501002,MS,2910101,SUL,CSIC,Herramientas Menores,5000,0,3255,8255,0,0,5121.12,3133.88
+Subsidio federal,55501002,MS,2940101,SUL,CSIC,Refacciones y Accesorios para equipo de cómputo,140000,0,6554,146554,0,0,52590.92,93963.08
+Subsidio federal,55501002,SG,3180101,SUL,CSIC,Servicio postal,1000,0,0,1000,0,0,0,1000
+Subsidio federal,55501002,SG,3330101,SUL,CSIC,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,25000,0,0,25000,0,0,0,25000
+Subsidio federal,55501002,SG,3360201,SUL,CSIC,Otros servicios comerciales,2000,0,0,2000,0,0,571,1429
+Subsidio federal,55501002,SG,3530101,SUL,CSIC,Mantenimiento y conservación de bienes informáticos,123000,0,0,123000,0,0,0,123000
+Subsidio federal,55501002,SG,3720402,SUL,CSIC,Peajes,2000,0,0,2000,0,0,222,1778
+Subsidio federal,55501002,SG,3750401,SUL,CSIC,Viáticos en Territorio Nacional,10000,0,0,10000,0,0,717.8,9282.2
+Subsidio federal,55501006,SG,3140101,SUL,CSIC,Servicio telefónico convencional,35000,0,0,35000,0,0,0,35000
+Subsidio federal,55501006,SG,3150101,SUL,CSIC,Servicio de telefonía celular,170500,0,0,170500,0,0,51365.18,119134.82
+Subsidio federal,55504003,SG,3360201,SUL,CSIC,Otros servicios comerciales,15000,0,0,15000,0,0,0,15000
+Subsidio federal,55504003,SG,3530102,SUL,CSIC,Mantenimiento a Software,30000,0,0,30000,0,0,0,30000
+Subsidio federal,55504003,SG,3590101,SUL,CSIC,Servicios de jardinería y fumigación,15000,0,0,15000,0,0,0,15000
+Subsidio federal,55601001,MS,2110101,SUL,CIGA,Papeleria y Articulos de Oficina,0,0,4360,4360,0,0,4359.28,0.72
+Subsidio federal,55601001,MS,2460101,SUL,CIGA,Material eléctrico y electrónico,150000,0,239948,389948,379,0,389917.2,30.8
+Subsidio federal,55601001,MS,2470101,SUL,CIGA,Artículos metálicos para la construcción,80000,0,62589,142589,0,0,141658.33,930.67
+Subsidio federal,55601001,MS,2490101,SUL,CIGA,Otros materiales y artículos de construcción y reparación,50000,0,223372,273372,149045.47,0,273368.76,3.24
+Subsidio federal,55601001,MS,2590101,SUL,CIGA,Otros productos químicos,14000,0,-6360,7640,0,0,0,7640
+Subsidio federal,55601001,MS,2610301,SUL,CIGA,"Combustibles, lubricantes y aditivos",25000,0,0,25000,0,0,7980,17020
+Subsidio federal,55601001,MS,2910101,SUL,CIGA,Herramientas Menores,90000,0,-23732,66268,3383.94,0,61341.79,4926.21
+Subsidio federal,55601001,MS,2920101,SUL,CIGA,Refacciones y Accesorios Menores de edificios,40000,0,36526,76526,4031.23,0,76524.2,1.8
+Subsidio federal,55601001,MS,2930101,SUL,CIGA,"Refacciones y Accesorios Menores de  mobiliario, equipo de administración, educacional y recreativo",25000,0,14187,39187,0,0,38528.24,658.76
+Subsidio federal,55601001,SG,3190201,SUL,CIGA,Contratación de otros servicios,250000,0,206317.61,456317.61,5742,0,316436.94,139880.67
+Subsidio federal,55601001,SG,3330101,SUL,CIGA,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,360000,0,-2426,357574,0,0,287001.32,70572.68
+Subsidio federal,55601001,SG,3510101,SUL,CIGA,Mantenimiento de Infraestructura Física (terceros),2600000,0,-846375,1753625,44694.8,0,124787,1628838
+Subsidio federal,55601001,SG,3570101,SUL,CIGA,Mantenimiento y conservación de maquinaria y equipo,400000,0,-178,399822,18333.8,0,116792.14,283029.86
+Subsidio federal,55601001,SG,3720402,SUL,CIGA,Peajes,1150,0,0,1150,0,0,0,1150
+Subsidio federal,55601001,BMII,5150101,SUL,CIGA,Equipo de cómputo y de tecnologías de la información,0,0,49626,49626,0,0,49624.8,1.2
+Subsidio federal,55601001,BMII,5670101,SUL,CIGA,Herramientas y maquinas herramienta,0,0,28463,28463,0,0,28462.5,0.5
+Subsidio federal,55601004,MS,2110101,SUL,CIGA,Papeleria y Articulos de Oficina,0,0,1605.44,1605.44,0,0,1605.44,0
+Subsidio federal,55601004,MS,2460101,SUL,CIGA,Material eléctrico y electrónico,0,0,133822.2,133822.2,0,0,133821.6,0.6
+Subsidio federal,55601004,MS,2520102,SUL,CIGA,Materiales para jardinería,0,0,67692.4,67692.4,0,0,64430.85,3261.55
+Subsidio federal,55601004,MS,2910101,SUL,CIGA,Herramientas Menores,0,0,1138,1138,0,0,1137.96,0.04
+Subsidio federal,55601004,SG,3190201,SUL,CIGA,Contratación de otros servicios,0,0,9280,9280,0,0,9280,0
+Subsidio federal,55601004,SG,3510101,SUL,CIGA,Mantenimiento de Infraestructura Física (terceros),355000,0,-213538.04,141461.96,0,0,0,141461.96
+Subsidio federal,55601006,IP,6220205,SUL,CIGA,Adaptaciones a Inmuebles Destinados a las Áreas Académicas,0,0,345309.26,345309.26,0,0,0,345309.26
+Subsidio federal,55699001,SP,1210101,SUL,CIGA,Honorarios asimilables a salarios pagados por nomina,3000,0,0,3000,0,0,0,3000
+Subsidio federal,55699001,SP,1330101,SUL,CIGA,Tiempo Extraordinario,20000,0,100687.74,120687.74,10207.8,0,106538,14149.74
+Subsidio federal,55701002,MS,2210301,SUL,OTCA,Productos alimenticios para el personal que realiza labores en campo o de supervisión,3840,0,0,3840,0,0,0,3840
+Subsidio federal,55701002,MS,2210401,SUL,OTCA,Productos alimenticios para el personal en las instalaciones,8100,0,0,8100,0,0,0,8100
+Subsidio federal,55701002,MS,2610301,SUL,OTCA,"Combustibles, lubricantes y aditivos",3680,0,0,3680,0,0,0,3680
+Subsidio federal,55701002,SG,3310101,SUL,OTCA,"Servicios Profesionales Personas Físicas para asesoria asociadas a convenios, tratados o acuerdos",121500,0,0,121500,0,0,67500,54000
+Subsidio federal,55701002,SG,3720402,SUL,OTCA,Peajes,2880,0,0,2880,0,0,0,2880
+Subsidio federal,55801008,SP,1210102,SUL,CSE,Honorarios asimilables a salarios,16000,0,0,16000,0,0,4638.74,11361.26
+Subsidio federal,55801008,MS,2110101,SUL,CSE,Papeleria y Articulos de Oficina,40000,0,-20652.04,19347.96,0,0,6136.4,13211.56
+Subsidio federal,55801008,MS,2210401,SUL,CSE,Productos alimenticios para el personal en las instalaciones,16000,0,-3750,12250,0,0,0,12250
+Subsidio federal,55801008,MS,2610301,SUL,CSE,"Combustibles, lubricantes y aditivos",2500,0,0,2500,500,0,1439,1061
+Subsidio federal,55801008,SG,3330101,SUL,CSE,Servicios Profesionales Personas Físicas para servicios de desarrollo de aplicaciones informaticas,210000,0,0,210000,0,35960,158620.33,51379.67
+Subsidio federal,55801008,SG,3520101,SUL,CSE,Mantenimiento y conservación de mobiliario y equipo de administración,18000,0,0,18000,0,0,15080,2920
+Subsidio federal,55801008,SG,3720402,SUL,CSE,Peajes,2500,0,0,2500,0,0,833,1667
+Subsidio federal,55801008,BMII,5150101,SUL,CSE,Equipo de cómputo y de tecnologías de la información,0,0,20652.04,20652.04,0,0,20439.2,212.84
+Subsidio federal,55899001,SP,1330101,SUL,CSE,Tiempo Extraordinario,10000,0,0,10000,0,0,0,10000
